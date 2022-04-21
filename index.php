@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Industrial Corporate Industry & Factory - Industrio - Industrial Industry & Factory">
@@ -8,7 +9,7 @@
     <title>HOME | MANTRATECH & SERVICES PVT. LTD.</title>
     <!-- mobile responsive meta -->
     <?php
-        include 'head.php';
+    include 'head.php';
     ?>
     <link href="plugins/revolution/css/settings.css" rel="stylesheet">
     <link href="plugins/revolution/css/layers.css" rel="stylesheet">
@@ -22,78 +23,9 @@
     </div> <!-- /.preloader -->
 
     <div class="page-wrapper">
-        <div class="header-top home-one clearfix">
-            <div class="container">
-                <div class="logo pull-left">
-                    <a href="/"><img src="img/logo1-1.png" alt="Awesome Image" /></a>
-                </div><!-- /.logo -->
-                <div class="header-right-info pull-right">
-                    <div class="single-header-right-info">
-                        <div class="icon-box">
-                            <i class="industrio-icon-phone-call"></i>
-                        </div><!-- /.icon-box -->
-                        <div class="text-box">
-                            <p>Call us 9:00am - 6:00pm</p>
-                            <h3>997-308-3145</h3>
-                        </div><!-- /.text-box -->
-                    </div><!-- /.single-header-right-info -->
-                    <div class="single-header-right-info">
-                        <div class="icon-box">
-                            <i class="industrio-icon-clock"></i>
-                        </div><!-- /.icon-box -->
-                        <div class="text-box">
-                            <p>Monday to Friday</p>
-                            <h3>9:00am - 6:00pm</h3>
-                        </div><!-- /.text-box -->
-                    </div><!-- /.single-header-right-info -->
-                    <div class="single-header-right-info">
-                        <div class="icon-box">
-                            <i class="industrio-icon-envelope"></i>
-                        </div><!-- /.icon-box -->
-                        <div class="text-box">
-                            <p>E-mail us</p>
-                            <h3>info@mantratechro.com</h3>
-                        </div><!-- /.text-box -->
-                    </div><!-- /.single-header-right-info -->
-                </div><!-- /.header-right-info -->
-            </div><!-- /.container -->
-        </div><!-- /.header-top home-one -->
-
-        <header class="header header-home-one clearfix">
-            <nav class="navbar navbar-default header-navigation stricky clearfix">
-                <div class="container clearfix">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button class="side-nav-toggler side-nav-opener"><i class="fa fa-bars"></i></button>
-                    </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse main-navigation mainmenu " id="main-nav-bar">
-                        <ul class="nav navbar-nav navigation-box ms-auto">
-                            <li class="current">
-                                <a href="/">Home</a>
-                            </li>
-                            <li>
-                                <a href="products">Products</a>
-                                <ul class="sub-menu">
-                                    <li> <a href="single-service">Arsenic Removal Plant</a> </li>
-                                    <li><a href="single-service.html">Iron Removal Plant</a></li>
-                                    <li><a href="single-service.html">Fluoride Removal Plant</a></li>
-                                    <li><a href="single-service.html">Sewage Treatment Plant (STP)</a></li>
-                                    <li><a href="single-service.html">RO Maintenance Chemicals</a></li>
-                                    <li><a href="single-service.html">Filter Media</a></li>
-                                    <li><a href="single-service.html">Ro Plant</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li> <a href="about.html">About Us</a> </li>
-                            <li> <a href="contact.html">Contact Us</a> </li>
-                        </ul>
-                    </div><!-- /.navbar-collapse -->
-                    <div class="right-side-box">
-                        <a href="contact.html" class="rqa-btn"><span class="inner">Get a Quote <i class="fa fa-caret-right"></i></span></a>
-                    </div><!-- /.right-side-box -->
-                </div><!-- /.container -->
-            </nav>
-        </header><!-- /.header -->
+        <?php
+        include 'header-home.php'
+        ?>
 
         <!--Main Slider-->
         <section class="main-slider">
@@ -104,7 +36,7 @@
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/1.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-90','-80','-100','-80']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;text-align: center;">
-                                <h2>We will provide the <br /> best <span>Industrial</span> service</h2>
+                                <h2>We will provide the <br /> best <span>Mantratech</span> service</h2>
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','600','650','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['50','40','25','15']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap; text-align: center;">
@@ -264,23 +196,26 @@
                 <div class="row">
                     <div class="col-md-7">
                         <div class="about-content">
-                            <h3>Welcome to <span>Industrio Company</span></h3>
-                            <p>Manufacturing industry became a key sector of production and labour in <br /> European and North American countries during the Industrial Revolution, <br /> upsetting previous mercantile and feudal economies.</p>
+                            <h3>Welcome to <span>Mantra Tech</span></h3>
+                            <p class="text-justify">A Part of MANTRATECH AND SERVICES PVT.LTD. known for
+                                dedication and their customer satisfaction. Our network provide assistance to our clients. Team of experienced engineers and technician expertise in the arena of reverse osmosis water purification system—designing, production, installation, civil construction with excellent infrastructure. It is a leading manufacturer and wholesale distributor of reverse
+                                osmosis system</p>
                             <div class="row">
-                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
                                     <ul class="list-items">
-                                        <li><i class="industrio-icon-next"></i> Our Work Growth</li>
-                                        <li><i class="industrio-icon-next"></i> 1500 Employed</li>
+                                        <li><i class="industrio-icon-next"></i> Iron Removal Plant</li>
+                                        <li><i class="industrio-icon-next"></i> Arsenic Removal Plant</li>
+                                        <li><i class="industrio-icon-next"></i> 1000 LPH upto 10000 LPH</li>
                                     </ul><!-- /.list-items -->
                                 </div><!-- /.col-lg-4 col-md-6 col-sm-12 col-xs-12 -->
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                                     <ul class="list-items">
-                                        <li><i class="industrio-icon-next"></i> Our Employee Growth</li>
-                                        <li><i class="industrio-icon-next"></i> Service Management</li>
+                                        <li><i class="industrio-icon-next"></i> D.M Plant</li>
+                                        <li><i class="industrio-icon-next"></i> R.O Plant</li>
                                     </ul><!-- /.list-items -->
                                 </div><!-- /.col-lg-4 col-md-6 col-sm-12 col-xs-12 -->
                             </div><!-- /.row -->
-                            <a href="#" class="about-btn hvr-sweep-to-right">Learn about the services</a>
+                            <a href="#" class="about-btn hvr-sweep-to-right">Learn about the products</a>
                         </div><!-- /.about-content -->
 
                     </div><!-- /.col-md-7 -->
@@ -289,7 +224,7 @@
                             <img src="img/about-1-1.png" alt="Awesome Image" />
                             <div class="video-box">
                                 <img src="img/about-1-2.png" alt="Awesome Image" />
-                                <a href="http://www.youtube.com/watch?v=ZRkdyjJ_MdM" class="video-popup"><i class="industrio-icon-play-button"></i></a>
+                                <!-- <a href="http://www.youtube.com/watch?v=ZRkdyjJ_MdM" class="video-popup"><i class="industrio-icon-play-button"></i></a> -->
                             </div><!-- /.video-box -->
                         </div><!-- /.about-img-box -->
                     </div><!-- /.col-md-5 -->
@@ -297,278 +232,330 @@
             </div><!-- /.container -->
         </section><!-- /.about-style-one -->
 
-        <section class="service-style-one sec-pad pb0">
-            <div class="container">
-                <div class="service-carousel-one owl-carousel owl-theme">
-                    <div class="item">
-                        <div class="single-service-style-one flip-hover">
-                            <div class="front">
-                                <div class="inner-content">
-                                    <i class="industrio-icon-gas-pipe"></i>
-                                    <h3>Oil & Gas Production</h3>
-                                </div><!-- /.inner-content -->
-                            </div><!-- /.front -->
-                            <div class="back">
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <h3>Fuel System Management</h3>
-                                            <p>Sed quia non numquam eius modi tempora incidunt ut labore magnam. </p>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.back -->
-                        </div><!-- /.single-service-style-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-service-style-one flip-hover">
-                            <div class="front">
-                                <div class="inner-content">
-                                    <i class="industrio-icon-tower"></i>
-                                    <h3>Electrical & Power</h3>
-                                </div><!-- /.inner-content -->
-                            </div><!-- /.front -->
-                            <div class="back">
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <h3>Fuel System Management</h3>
-                                            <p>Sed quia non numquam eius modi tempora incidunt ut labore magnam. </p>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.back -->
-                        </div><!-- /.single-service-style-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-service-style-one flip-hover">
-                            <div class="front">
-                                <div class="inner-content">
-                                    <i class="industrio-icon-valve"></i>
-                                    <h3>Sanitary & Plumbing</h3>
-                                </div><!-- /.inner-content -->
-                            </div><!-- /.front -->
-                            <div class="back">
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <h3>Fuel System Management</h3>
-                                            <p>Sed quia non numquam eius modi tempora incidunt ut labore magnam. </p>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.back -->
-                        </div><!-- /.single-service-style-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-service-style-one flip-hover">
-                            <div class="front">
-                                <div class="inner-content">
-                                    <i class="industrio-icon-worker"></i>
-                                    <h3>Industrial Construction</h3>
-                                </div><!-- /.inner-content -->
-                            </div><!-- /.front -->
-                            <div class="back">
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <h3>Fuel System Management</h3>
-                                            <p>Sed quia non numquam eius modi tempora incidunt ut labore magnam. </p>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.back -->
-                        </div><!-- /.single-service-style-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-service-style-one flip-hover">
-                            <div class="front">
-                                <div class="inner-content">
-                                    <i class="industrio-icon-industry"></i>
-                                    <h3>Mechanical Engineering</h3>
-                                </div><!-- /.inner-content -->
-                            </div><!-- /.front -->
-                            <div class="back">
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <h3>Fuel System Management</h3>
-                                            <p>Sed quia non numquam eius modi tempora incidunt ut labore magnam. </p>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.back -->
-                        </div><!-- /.single-service-style-one -->
-                    </div><!-- /.item -->
-                </div><!-- /.service-carousel-one -->
-            </div><!-- /.container -->
-        </section><!-- /.service-style-one -->
-
         <section class="portfolio-style-two sec-pad">
             <div class="container">
                 <div class="sec-title text-center">
-                    <h3>Projects for <span>inspirations</span></h3>
+                    <h3>Products of <span>mantratech</span></h3>
                     <p>You will find yourself working in a true partnership that results in an incredible <br /> experience, and an end product that is the best. </p>
                 </div><!-- /.sec-title -->
                 <div class="gallery-filter">
                     <ul class="post-filter masonary text-center">
-                        <li class="filter active" data-filter=".masonary-item"><span><i class="industrio-icon-layers"></i>All Cases</span></li>
+                        <li class="filter active" data-filter=".masonary-item"><span>
+                                All Products</span></li>
                         <!--
                     -->
-                        <li class="filter " data-filter=".oil"><span><i class="industrio-icon-drop-of-liquid"></i>Oil & Gas</span></li>
+                        <li class="filter " data-filter=".roplant"><span>RO Plant</span></li>
                         <!--
                     -->
-                        <li class="filter " data-filter=".construction"><span><i class="industrio-icon-safety"></i>Construction</span></li>
+                        <li class="filter " data-filter=".removalplant"><span>Removal Plant</span></li>
                         <!--
                     -->
-                        <li class="filter " data-filter=".chemical"><span><i class="industrio-icon-atom"></i>Chemicel</span></li>
+                        <li class="filter " data-filter=".others"><span>Others</span></li>
                         <!--
                     -->
-                        <li class="filter " data-filter=".industrial"><span><i class="industrio-icon-settings"></i>Industrial</span></li>
-                        <!--
-                    -->
-                        <li class="filter " data-filter=".agriculture"><span><i class="industrio-icon-scythe"></i>Agriculture</span></li>
                     </ul><!-- /.post-filter -->
                 </div><!-- /.gallery-filter -->
                 <div class="row masonary-layout filter-layout" data-filter-class="filter">
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item oil ">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-1.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-140.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-140</h3>
                                             </a>
-                                            <a href="img/project-1-1.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-140.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item construction agriculture">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-2.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-160.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-160</h3>
                                             </a>
-                                            <a href="img/project-1-2.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-160.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item chemical ">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-3.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-190.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-190</h3>
                                             </a>
-                                            <a href="img/project-1-3.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-190.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item chemical agriculture">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-4.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-235.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-235</h3>
                                             </a>
-                                            <a href="img/project-1-4.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-235.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item oil">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-5.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-270.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-270</h3>
                                             </a>
-                                            <a href="img/project-1-5.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-270.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item chemical">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-6.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-270-1.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-270</h3>
                                             </a>
-                                            <a href="img/project-1-6.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-270-1.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item oil">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-7.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-385.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-385</h3>
                                             </a>
-                                            <a href="img/project-1-8.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-385.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
                             </div><!-- /.img-box -->
                         </div><!-- /.single-portfolio-style-two -->
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item chemical">
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/project-1-8.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-420.jpg" alt="Awesome Image" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
-                                            <span>Melbourne, AU</span>
+                                            <span>Model- 1000Lph</span>
                                             <a href="#">
-                                                <h3>Mechanical Works</h3>
+                                                <h3>M-Tech-420</h3>
                                             </a>
-                                            <a href="img/project-1-8.jpg" class="img-popup industrio-icon-next"></a>
+                                            <a href="img/products/mtech-420.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/mtech-435.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <span>Model- 2000Lph</span>
+                                            <a href="#">
+                                                <h3>M-Tech-435</h3>
+                                            </a>
+                                            <a href="img/products/mtech-435.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/mtech-485.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <span>Model- 2000Lph</span>
+                                            <a href="#">
+                                                <h3>M-Tech-485</h3>
+                                            </a>
+                                            <a href="img/products/mtech-485.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/mtech-560.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <span>Model- 2000Lph</span>
+                                            <a href="#">
+                                                <h3>M-Tech-560</h3>
+                                            </a>
+                                            <a href="img/products/mtech-560.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Arsenic Removal Plant</h3>
+                                            </a>
+                                            <a href="img/products/arsenic-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Iron Removal Plant</h3>
+                                            </a>
+                                            <a href="img/products/iron-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Fluoride Removal Plant</h3>
+                                            </a>
+                                            <a href="img/products/fluoride-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Ro Maintenance Chemicals</h3>
+                                            </a>
+                                            <a href="img/products/ro-maintenance-chemicals.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/filter-media.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Filter Media</h3>
+                                            </a>
+                                            <a href="img/products/filter-media.jpg" class="img-popup industrio-icon-next"></a>
+                                        </div><!-- /.content -->
+                                    </div><!-- /.box -->
+                                </div><!-- /.overlay -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-portfolio-style-two -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
+                        <div class="single-portfolio-style-two">
+                            <div class="img-box">
+                                <img src="img/products/stp.jpg" alt="Awesome Image" />
+                                <div class="overlay">
+                                    <div class="box">
+                                        <div class="content">
+                                            <!-- <span>Model- 2000Lph</span> -->
+                                            <a href="#">
+                                                <h3>Sewage Treatment Plant</h3>
+                                            </a>
+                                            <a href="img/products/stp.jpg" class="img-popup industrio-icon-next"></a>
                                         </div><!-- /.content -->
                                     </div><!-- /.box -->
                                 </div><!-- /.overlay -->
@@ -579,286 +566,7 @@
             </div><!-- /.container -->
         </section><!-- /.project-style-one -->
 
-        <section class="testimonials-style-two dark-bg sec-pad">
-            <div class="container">
-                <div class="sec-title light">
-                    <h3>Clients say <span>about us</span></h3>
-                </div><!-- /.sec-title -->
-                <div class="testimonials-style-two-carousel owl-theme owl-carousel">
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-1.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Laure Spinello</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-2.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Juan Horii</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-3.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Reyes Slotemaker</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-1.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Laure Spinello</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-2.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Juan Horii</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-3.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Reyes Slotemaker</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-1.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Laure Spinello</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-2.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Juan Horii</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonial-style-two">
-                            <div class="inner">
-                                <p><i class="fas fa-quote-left"></i> Very professional Quisq ue lorem tortor fringilla sed,vestibulum id, elei<br />fend justo bibendum sapien massa <br />ac turpis faucibus. <i class="fas fa-quote-right"></i></p>
-                                <div class="client-info-box">
-                                    <div class="img-box">
-                                        <img src="img/testi-1-3.jpg" alt="Awesome Image" />
-                                    </div><!-- /.img-box -->
-                                    <div class="text-box">
-                                        <h3>Reyes Slotemaker</h3>
-                                        <p>Founder, Arch Industry</p>
-                                    </div><!-- /.text-box -->
-                                </div><!-- /.client-info-box -->
-                            </div><!-- /.inner -->
-                        </div><!-- /.single-testimonial-style-two -->
-                    </div><!-- /.item -->
-                </div><!-- /.testimonials-style-two-carousel owl-theme owl-carousel -->
-            </div><!-- /.container -->
-        </section><!-- /.testimonials-style-two -->
-
-        <section class="feature-style-one">
-            <div class="container">
-                <div class="clearfix">
-                    <div class="col-md-4">
-                        <div class="single-feature-style-one">
-                            <div class="icon-box">
-                                <i class="industrio-icon-innovation"></i>
-                            </div><!-- /.icon-box -->
-                            <div class="text-box">
-                                <h3>Creative Ideas</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-feature-style-one -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-4">
-                        <div class="single-feature-style-one light">
-                            <div class="icon-box">
-                                <i class="industrio-icon-secure-shield"></i>
-                            </div><!-- /.icon-box -->
-                            <div class="text-box">
-                                <h3>Super Safety</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-feature-style-one -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-4">
-                        <div class="single-feature-style-one light">
-                            <div class="icon-box">
-                                <i class="industrio-icon-support"></i>
-                            </div><!-- /.icon-box -->
-                            <div class="text-box">
-                                <h3>24/7 Support</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-feature-style-one -->
-                    </div><!-- /.col-md-4 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.feature-style-one -->
-
-        <section class="team-style-one sec-pad pb0">
-            <div class="container">
-                <div class="sec-title text-center">
-                    <h3><span>Team & Advisory</span> board</h3>
-                    <p>You will find yourself working in a true partnership that results in an incredible <br /> experience, and an end product that is the best. </p>
-                </div><!-- /.sec-title -->
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="single-team-style-one text-center">
-                            <div class="img-box">
-                                <img src="img/team-1-1.png" alt="Awesome Image" />
-                                <div class="name-box">
-                                    <div class="inner">Margorie Hych</div><!-- /.inner -->
-                                </div><!-- /.name-box -->
-                            </div><!-- /.img-box -->
-                            <div class="text-box">
-                                <p>Plumber</p>
-                                <div class="social">
-                                    <a href="#" class="fab fa-facebook-f"></a>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                    <a href="#" class="fab fa-google-plus-g"></a>
-                                    <a href="#" class="fab fa-instagram"></a>
-                                </div><!-- /.social -->
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-team-style-one -->
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="single-team-style-one text-center">
-                            <div class="img-box">
-                                <img src="img/team-1-2.png" alt="Awesome Image" />
-                                <div class="name-box">
-                                    <div class="inner">Latanya Julca</div><!-- /.inner -->
-                                </div><!-- /.name-box -->
-                            </div><!-- /.img-box -->
-                            <div class="text-box">
-                                <p>Constractor</p>
-                                <div class="social">
-                                    <a href="#" class="fab fa-facebook-f"></a>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                    <a href="#" class="fab fa-google-plus-g"></a>
-                                    <a href="#" class="fab fa-instagram"></a>
-                                </div><!-- /.social -->
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-team-style-one -->
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="single-team-style-one text-center">
-                            <div class="img-box">
-                                <img src="img/team-1-3.png" alt="Awesome Image" />
-                                <div class="name-box">
-                                    <div class="inner">Aileen Metchikoff</div><!-- /.inner -->
-                                </div><!-- /.name-box -->
-                            </div><!-- /.img-box -->
-                            <div class="text-box">
-                                <p>Founder & CEO</p>
-                                <div class="social">
-                                    <a href="#" class="fab fa-facebook-f"></a>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                    <a href="#" class="fab fa-google-plus-g"></a>
-                                    <a href="#" class="fab fa-instagram"></a>
-                                </div><!-- /.social -->
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-team-style-one -->
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="single-team-style-one text-center">
-                            <div class="img-box">
-                                <img src="img/team-1-4.png" alt="Awesome Image" />
-                                <div class="name-box">
-                                    <div class="inner">Jordan Sisomphou</div><!-- /.inner -->
-                                </div><!-- /.name-box -->
-                            </div><!-- /.img-box -->
-                            <div class="text-box">
-                                <p>Constractor</p>
-                                <div class="social">
-                                    <a href="#" class="fab fa-facebook-f"></a>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                    <a href="#" class="fab fa-google-plus-g"></a>
-                                    <a href="#" class="fab fa-instagram"></a>
-                                </div><!-- /.social -->
-                            </div><!-- /.text-box -->
-                        </div><!-- /.single-team-style-one -->
-                    </div><!-- /.col-md-3 -->
-                </div><!-- /.row -->
-            </div><!-- /.cotainer -->
-        </section><!-- /.team-style-one -->
+   
 
         <section class="faq-rqa-section faq-style-one sec-pad pb0">
             <div class="container">
@@ -871,17 +579,17 @@
                         <div class="accrodion-grp" data-grp-name="faq-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4>How to process the funtion for consulting?</h4>
+                                    <h4>Question 1</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <p>Many of our SELC registered employees are requested as main preferred Guilds were associations of artisans and Merchant that oversaw the main production and distribution of a particular good. </p>
+                                        <p>Answer </p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h4>Where should I incorporate my business?</h4>
+                                    <h4>Question 2</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -891,7 +599,7 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4>How much should I capitalize with at the beginning?</h4>
+                                    <h4>Question 3</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -918,6 +626,7 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.faq-rqa-section -->
+        <br>
 
         <section class="award-winning">
             <div class="container">
@@ -930,8 +639,8 @@
                     </div><!-- /.col-md-7 -->
                     <div class="col-md-5">
                         <div class="img-box clearfix">
-                            <img src="img/certificate-1-1.jpg" alt="Awesome Image" class="pull-left" />
-                            <img src="img/certificate-1-2.jpg" alt="Awesome Image" class="pull-right" />
+                            <!-- <img src="img/certificate-1-1.jpg" alt="Awesome Image" class="pull-left" /> -->
+                            <img src="img/cert.jpg" alt="Awesome Image" height="130" class="pull-right" />
                         </div> <!-- /.img-box -->
                     </div><!-- /.col-md-5 -->
                 </div><!-- /.row -->
@@ -946,9 +655,11 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-widget about-widget">
-                            <a href="index.html"><img src="img/logo2-1.png" alt="Awesome Image" /></a>
+                            <a href="index.html"><img src="img/logo1-2.png" alt="Awesome Image" /></a>
                             <h3>About us</h3>
-                            <p>Many of our SELC registered employees are requested as main preferred temporary staff when a service.</p>
+                            <p class="text-justify">Mantratech ro System is a leading manufacturer and wholesale distributor of reverse
+                                osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc.
+                            </p>
                         </div><!-- /.footer-widget about-widget -->
                     </div><!-- /.col-md-3 -->
                     <div class="col-md-2 col-sm-6 col-xs-12">
@@ -958,11 +669,8 @@
                             </div><!-- /.title -->
                             <ul class="links-list">
                                 <li><a href="#">Home</a></li>
+                                <li><a href="#">Products</a></li>
                                 <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Project</a></li>
-                                <li><a href="#">Pages</a></li>
-                                <li><a href="#">Blog</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul><!-- /.links-list -->
                         </div><!-- /.footer-widget links-widget -->
@@ -970,21 +678,17 @@
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-widget services-widget">
                             <div class="title">
-                                <h3>Services</h3>
+                                <h3>Products</h3>
                             </div><!-- /.title -->
                             <ul class="links-list">
-                                <li><a href="#">Engineering</a></li>
-                                <li><a href="#">Petrolium & Gas</a></li>
-                                <li><a href="#">Power & Engergy</a></li>
-                                <li><a href="#">Mechanical Engineering</a></li>
-                                <li><a href="#">Agricultural Processing</a></li>
+                                <li><a href="#">Ro Plant</a></li>
                             </ul><!-- /.links-list -->
                         </div><!-- /.footer-widget services-widget -->
                     </div><!-- /.col-md-3 -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-widget subscribe-widget">
                             <h3>Subscribe Today</h3>
-                            <p>Many of our SELC registered employees are requested as main</p>
+                            <!-- <p>Many of our SELC registered employees are requested as main</p> -->
                             <form action="#" class="subscribe-form">
                                 <input type="text" placeholder="Email Address" />
                                 <button type="submit" class="hvr-sweep-to-right">Subscribe</button>
@@ -997,10 +701,10 @@
         <div class="bottom-footer">
             <div class="container">
                 <div class="left-text pull-left">
-                    <p>&copy; Copyright Industrio 2018. All right reserved.</p>
+                    <p>&copy; Copyright MANTRATECH AND SERVICES PVT. LTD. 2022. All right reserved.</p>
                 </div><!-- /.left-text -->
                 <div class="right-text pull-right">
-                    <p>Created by Themexriver</p>
+                    <p>Created by Nation Connect</p>
                 </div><!-- /.right-text -->
             </div><!-- /.container -->
         </div><!-- /.bottom-footer -->
@@ -1094,7 +798,7 @@
     <div class="scroll-to-top scroll-to-target" data-target="html"><i class="fa fa-angle-up"></i></div>
 
     <?php
-        include "foot.php";
+    include "foot.php";
     ?>
     <!--Revolution Slider-->
     <script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -1110,7 +814,7 @@
     <script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
     <script src="js/main-slider-script.js"></script>
 
-    
+
 </body>
 
 </html>

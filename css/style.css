@@ -558,7 +558,7 @@ body.active-preloader-ovh {
   right: -35px;
   -webkit-transform: skewX(30deg);
           transform: skewX(30deg);
-  background: #2e2e2e;
+  background: #ffffff;
 }
 .header-top .header-right-info {
   padding: 34px 0;

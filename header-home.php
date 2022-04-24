@@ -18,7 +18,7 @@
                     <i class="industrio-icon-clock"></i>
                 </div><!-- /.icon-box -->
                 <div class="text-box">
-                    <p>Monday to Friday</p>
+                    <p>Sugandh</p>
                     <h3>9:00am - 6:00pm</h3>
                 </div><!-- /.text-box -->
             </div><!-- /.single-header-right-info -->

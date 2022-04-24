@@ -69,7 +69,7 @@
                             <div class="inner">
                                 <i class="industrio-icon-innovation"></i>
                                 <h3>Who We Are</h3>
-                                <p>Aenean lacinia feugiat massa, sit amet con sequat lacus suscipit vitae. Nunc vitae velit arcu aliquam</p>
+                                <p>Mantratech ro System is a leading manufacturer and wholesale distributor of reverse osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant etc.</p>
                             </div><!-- /.inner -->
                         </div><!-- /.single-features-style-two -->
                     </div><!-- /.col-md-4 col-sm-6 col-xs-12 -->
@@ -78,7 +78,7 @@
                             <div class="inner">
                                 <i class="industrio-icon-secure-shield"></i>
                                 <h3>Our Security</h3>
-                                <p>Aenean lacinia feugiat massa, sit amet con sequat lacus suscipit vitae. Nunc vitae velit arcu aliquam</p>
+                                <p>We develop workplace that is super safe and and obey health policy Rules.</p>
                             </div><!-- /.inner -->
                         </div><!-- /.single-features-style-two -->
                     </div><!-- /.col-md-4 col-sm-6 col-xs-12 -->
@@ -86,8 +86,8 @@
                         <div class="single-features-style-two hvr-bounce-to-bottom">
                             <div class="inner">
                                 <i class="industrio-icon-support"></i>
-                                <h3>Our Process</h3>
-                                <p>Aenean lacinia feugiat massa, sit amet con sequat lacus suscipit vitae. Nunc vitae velit arcu aliquam</p>
+                                <h3>24/7 Support</h3>
+                                <p>24/7 support means we are ready to help you any time, Get solution as soon as they come up.</p>
                             </div><!-- /.inner -->
                         </div><!-- /.single-features-style-two -->
                     </div><!-- /.col-md-4 col-sm-6 col-xs-12 -->
@@ -100,10 +100,10 @@
                 <div class="sec-title">
                     <div class="row">
                         <div class="col-md-4">
-                            <h3>Why choose <span>Industrio</span> for your business</h3>
+                            <h3>Why choose <span>Mantratech</span> for your business</h3>
                         </div><!-- /.col-md-4 -->
                         <div class="col-md-8">
-                            <p>Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione vol.</p>
+                            <p>We provide customer friendly technical and operational assistance for different service requirement and new installation.</p>
                         </div><!-- /.col-md-8 -->
                     </div><!-- /.row -->
                 </div><!-- /.sec-title -->

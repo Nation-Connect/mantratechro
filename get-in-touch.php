@@ -4,7 +4,7 @@
             <div class="col-md-5">
                 <div class="title">
                     <h3>Get in <span>touch</span></h3>
-                    <p>You will find yourself working in a true partnership that results in an incredible experience, and an end product that is the best.</p>
+                    <p> Start your journey towards Wastewater treatment. </p>
                 </div><!-- /.title -->
             </div><!-- /.col-md-7 -->
             <div class="col-md-7">

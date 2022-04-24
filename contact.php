@@ -36,7 +36,7 @@
             <div class="container">
                 <div class="sec-title text-center">
                     <h3>Get in <span>touch</span></h3>
-                    <p>You will find yourself working in a true partnership that results in an incredible <br /> experience, and an end product that is the best. </p>
+                    <p>Start your journey towards Wastewater treatment.</p>
                 </div><!-- /.sec-title text-center -->
                 <div class="row">
                     <div class="col-md-6">
@@ -56,7 +56,6 @@
             </div><!-- /.container -->
         </section><!-- /.contact-page -->
 
-
         <section class="feature-style-one">
             <div class="container">
                 <div class="clearfix">
@@ -67,7 +66,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>Creative Ideas</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
+                                <p>An idea that improves the quality of water to make it appropriate for a specific end-use. </p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->
@@ -78,7 +77,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>Super Safety</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
+                                <p> We develop workplace that is super safe and and obey health policy Rules. </p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->
@@ -89,7 +88,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>24/7 Support</h3>
-                                <p>Sed quia non numquam eius modi tempora incidunt ut labore.</p>
+                                <p> 24/7 support means we are ready to help you any time, Get solution as soon as they come up.</p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->

@@ -26,7 +26,6 @@
         <?php
         include 'header-home.php'
         ?>
-<!-- dipankar -->
         <!--Main Slider-->
         <section class="main-slider">
             <div class="rev_slider_wrapper fullwidthbanner-container" id="rev_slider_one_wrapper" data-source="gallery">
@@ -36,11 +35,11 @@
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/4.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-90','-80','-100','-80']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;text-align: center;">
-                                <h2>We will provide the <br /> best <span>Mantratech</span> service</h2>
+                                <h2>We will provide the <br /> best <span> Water & waste Treatment </span> service</h2>
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','600','650','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['50','40','25','15']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap; text-align: center;">
-                                <a href="#" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
+                                <a href="about" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
                             </div>
 
                         </li>
@@ -49,7 +48,7 @@
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/2.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-100','-80','-100','-80']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;">
-                                <h2>We will provide the <br /> best <span>Industrial</span> service</h2>
+                                <h2>We will provide the <br /> best <span> Water & Waste Treatment</span> service</h2>
                             </div>
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','500','500','400']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['20','40','15','15']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;">
@@ -57,7 +56,7 @@
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','600','650','480']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['115','130','100','85']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;">
-                                <a href="#" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
+                                <a href="about" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
                             </div>
 
                         </li>
@@ -66,7 +65,7 @@
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/3.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-100','-80','-100','-80']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap; text-align: right;">
-                                <h2>We will provide the <br /> best <span>Industrial</span> service</h2>
+                                <h2>We will provide the <br /> best <span> Water and Waste Treatment </span> service</h2>
                             </div>
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','500','500','400']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['20','40','15','15']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap; text-align: right;">
@@ -74,7 +73,7 @@
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['550','600','650','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['115','130','100','85']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap; text-align: right;">
-                                <a href="#" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
+                                <a href="about" class="theme-btn btn-style-one hvr-sweep-to-right">Learn more <i class="fa fa-arrow-right"></i></a>
                             </div>
 
                         </li>
@@ -236,7 +235,7 @@
             <div class="container">
                 <div class="sec-title text-center">
                     <h3>Products of <span>mantratech</span></h3>
-                    <p>You will find yourself working in a true partnership that results in an incredible <br /> experience, and an end product that is the best. </p>
+                    <p>You will find yourself working With Highly experinced company that ensure your need of clean water  <br /> and an end product that is the best. </p>
                 </div><!-- /.sec-title -->
                 <div class="gallery-filter">
                     <ul class="post-filter masonary text-center">
@@ -560,13 +559,53 @@
             </div><!-- /.container -->
         </section><!-- /.project-style-one -->
 
+        <section class="feature-style-one">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="col-md-4">
+                        <div class="single-feature-style-one">
+                            <div class="icon-box">
+                                <i class="industrio-icon-innovation"></i>
+                            </div><!-- /.icon-box -->
+                            <div class="text-box">
+                                <h3>Creative Ideas</h3>
+                                <p>An idea that improves the quality of water to make it appropriate for a specific end-use. </p>
+                            </div><!-- /.text-box -->
+                        </div><!-- /.single-feature-style-one -->
+                    </div><!-- /.col-md-4 -->
+                    <div class="col-md-4">
+                        <div class="single-feature-style-one light">
+                            <div class="icon-box">
+                                <i class="industrio-icon-secure-shield"></i>
+                            </div><!-- /.icon-box -->
+                            <div class="text-box">
+                                <h3>Super Safety</h3>
+                                <p> We develop workplace that is super safe and and obey health policy Rules. </p>
+                            </div><!-- /.text-box -->
+                        </div><!-- /.single-feature-style-one -->
+                    </div><!-- /.col-md-4 -->
+                    <div class="col-md-4">
+                        <div class="single-feature-style-one light">
+                            <div class="icon-box">
+                                <i class="industrio-icon-support"></i>
+                            </div><!-- /.icon-box -->
+                            <div class="text-box">
+                                <h3>24/7 Support</h3>
+                                <p> 24/7 support means we are ready to help you any time, Get solution as soon as they come up.</p>
+                            </div><!-- /.text-box -->
+                        </div><!-- /.single-feature-style-one -->
+                    </div><!-- /.col-md-4 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.feature-style-one -->
+
         <section class="faq-rqa-section faq-style-one sec-pad pb0">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 col-md-8 col-sm-12 col-xs-12 pull-left">
                         <div class="sec-title">
                             <h3>Learn more from <span>our FAQ</span></h3>
-                            <p>You will find yourself working in a true partnership that results in an incredible experience, and an end product that is the best. </p>
+                            <p>Mantratech ro System is a leading manufacturer and wholesale distributor of reverse osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc. </p>
                         </div><!-- /.sec-title -->
                         <div class="accrodion-grp" data-grp-name="faq-accrodion">
                             <div class="accrodion active">
@@ -585,7 +624,7 @@
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <p>Many of our SELC registered employees are requested as main preferred Guilds were associations of artisans and Merchant that oversaw the main production and distribution of a particular good. </p>
+                                        <p>Answer </p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -595,12 +634,12 @@
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <p>Many of our SELC registered employees are requested as main preferred Guilds were associations of artisans and Merchant that oversaw the main production and distribution of a particular good. </p>
+                                        <p>Answer </p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                         </div>
-                        <a href="#" class="more-info">Get more informations <i class="fa fa-arrow-right"></i></a>
+                        <a href="about" class="more-info">Get more informations <i class="fa fa-arrow-right"></i></a>
                     </div><!-- /.col-lg-7 col-md-8 -->
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pull-right">
                         <div class="rqa-box">
@@ -626,7 +665,7 @@
                     <div class="col-md-7">
                         <div class="title">
                             <h3>Winning <span>awards</span></h3>
-                            <p>You will find yourself working in a true partnership that results in an incredible experience, and an end product that is the best.</p>
+                            <p> Our achievements are shaped by the strength of the foundations we set. Thanks for our team for their commitment to excellence.</p>
                         </div><!-- /.title -->
                     </div><!-- /.col-md-7 -->
                     <div class="col-md-5">

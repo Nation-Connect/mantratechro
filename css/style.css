@@ -542,8 +542,8 @@ body.active-preloader-ovh {
   background: #181818;
 }
 .header-top .logo {
-  padding-top: 30px;
-  padding-bottom: 70px;
+  padding-top: 10px;
+  padding-bottom: 50px;
   position: relative;
 }
 .header-top .logo img {
@@ -652,7 +652,7 @@ body.active-preloader-ovh {
   margin-left: 20px;
 }
 .header-top.home-three .logo {
-  padding: 26px 0;
+  padding: 8px 0;
 }
 .header-top.home-three .logo:before {
   display: none;
@@ -5663,6 +5663,36 @@ footer.site-footer .bottom-footer p {
   color: #fff;
 }
 .sidebar .single-sidebar.service-sidebar ul.service-list li:hover a:before, .sidebar .single-sidebar.service-sidebar ul.service-list li.active a:before {
+  height: 100%;
+}
+.sidebar .single-sidebar.service-sidebar ul.service-list li span {
+  display: block;
+  color: #252525;
+  font-weight: 500;
+  font-size: 16px;
+  background: #F5F5F5;
+  position: relative;
+  padding-left: 25px;
+  line-height: 58px;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+}
+.sidebar .single-sidebar.service-sidebar ul.service-list li span:before {
+  content: '';
+  width: 6px;
+  height: 0;
+  background: #FD5912;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+}
+.sidebar .single-sidebar.service-sidebar ul.service-list li:hover span, .sidebar .single-sidebar.service-sidebar ul.service-list li.active span {
+  background: #252525;
+  color: #fff;
+}
+.sidebar .single-sidebar.service-sidebar ul.service-list li:hover span:before, .sidebar .single-sidebar.service-sidebar ul.service-list li.active span:before {
   height: 100%;
 }
 .sidebar .single-sidebar.broucher-sidebar {

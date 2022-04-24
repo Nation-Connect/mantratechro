@@ -32,8 +32,8 @@
             <div class="rev_slider_wrapper fullwidthbanner-container" id="rev_slider_one_wrapper" data-source="gallery">
                 <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                     <ul>
-                        <li class="slide-1" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="slotzoom-horizontal" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1687" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="img/slider/1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/1.jpg">
+                        <li class="slide-1" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="slotzoom-horizontal" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1687" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="img/slider/4.jpg" data-title="Slide Title" data-transition="parallaxvertical">
+                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/slider/4.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-90','-80','-100','-80']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' style="z-index: 7; white-space: nowrap;text-align: center;">
                                 <h2>We will provide the <br /> best <span>Mantratech</span> service</h2>
@@ -114,7 +114,7 @@
                                         <div class="text-box">
                                             <h3>Arsenic Removal Plant</h3>
                                             <p>It is used for Arsenic removal from water.</p>
-                                            <a href="arsenic.html" class="more">Learn more <i class="fa fa-angle-right"></i></a>
+                                            <a href="arsenic-removal-plant" class="more">Learn more <i class="fa fa-angle-right"></i></a>
                                         </div><!-- /.text-box -->
                                     </div><!-- /.content -->
                                 </div><!-- /.box -->
@@ -147,7 +147,7 @@
                                         <div class="text-box">
                                             <h3>Iron Removal Plant</h3>
                                             <p>It is used for Iron removal from water.</p>
-                                            <a href="#" class="more">Learn more <i class="fa fa-angle-right"></i></a>
+                                            <a href="iron-removal-plant" class="more">Learn more <i class="fa fa-angle-right"></i></a>
                                         </div><!-- /.text-box -->
                                     </div><!-- /.content -->
                                 </div><!-- /.box -->
@@ -180,7 +180,7 @@
                                         <div class="text-box">
                                             <h3>Fluoride Removal Plant</h3>
                                             <p>It is used for Fluoride removal from water.</p>
-                                            <a href="#" class="more">Learn more <i class="fa fa-angle-right"></i></a>
+                                            <a href="fluoride-removal-plant" class="more">Learn more <i class="fa fa-angle-right"></i></a>
                                         </div><!-- /.text-box -->
                                     </div><!-- /.content -->
                                 </div><!-- /.box -->
@@ -215,7 +215,7 @@
                                     </ul><!-- /.list-items -->
                                 </div><!-- /.col-lg-4 col-md-6 col-sm-12 col-xs-12 -->
                             </div><!-- /.row -->
-                            <a href="#" class="about-btn hvr-sweep-to-right">Learn about the products</a>
+                            <a href="about" class="about-btn hvr-sweep-to-right">Learn about the products</a>
                         </div><!-- /.about-content -->
 
                     </div><!-- /.col-md-7 -->
@@ -242,14 +242,8 @@
                     <ul class="post-filter masonary text-center">
                         <li class="filter active" data-filter=".masonary-item"><span>
                                 All Products</span></li>
-                        <!--
-                    -->
                         <li class="filter " data-filter=".roplant"><span>RO Plant</span></li>
-                        <!--
-                    -->
                         <li class="filter " data-filter=".removalplant"><span>Removal Plant</span></li>
-                        <!--
-                    -->
                         <li class="filter " data-filter=".others"><span>Others</span></li>
                         <!--
                     -->
@@ -264,7 +258,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-140">
                                                 <h3>M-Tech-140</h3>
                                             </a>
                                             <a href="img/products/mtech-140.jpg" class="img-popup industrio-icon-next"></a>
@@ -282,7 +276,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-160">
                                                 <h3>M-Tech-160</h3>
                                             </a>
                                             <a href="img/products/mtech-160.jpg" class="img-popup industrio-icon-next"></a>
@@ -300,7 +294,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-190">
                                                 <h3>M-Tech-190</h3>
                                             </a>
                                             <a href="img/products/mtech-190.jpg" class="img-popup industrio-icon-next"></a>
@@ -318,7 +312,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-235">
                                                 <h3>M-Tech-235</h3>
                                             </a>
                                             <a href="img/products/mtech-235.jpg" class="img-popup industrio-icon-next"></a>
@@ -336,7 +330,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-270">
                                                 <h3>M-Tech-270</h3>
                                             </a>
                                             <a href="img/products/mtech-270.jpg" class="img-popup industrio-icon-next"></a>
@@ -354,7 +348,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-270-1">
                                                 <h3>M-Tech-270</h3>
                                             </a>
                                             <a href="img/products/mtech-270-1.jpg" class="img-popup industrio-icon-next"></a>
@@ -372,7 +366,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-385">
                                                 <h3>M-Tech-385</h3>
                                             </a>
                                             <a href="img/products/mtech-385.jpg" class="img-popup industrio-icon-next"></a>
@@ -390,7 +384,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 1000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-420">
                                                 <h3>M-Tech-420</h3>
                                             </a>
                                             <a href="img/products/mtech-420.jpg" class="img-popup industrio-icon-next"></a>
@@ -408,7 +402,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 2000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-435">
                                                 <h3>M-Tech-435</h3>
                                             </a>
                                             <a href="img/products/mtech-435.jpg" class="img-popup industrio-icon-next"></a>
@@ -426,7 +420,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 2000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-485">
                                                 <h3>M-Tech-485</h3>
                                             </a>
                                             <a href="img/products/mtech-485.jpg" class="img-popup industrio-icon-next"></a>
@@ -444,7 +438,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <span>Model- 2000Lph</span>
-                                            <a href="#">
+                                            <a href="m-tech-560">
                                                 <h3>M-Tech-560</h3>
                                             </a>
                                             <a href="img/products/mtech-560.jpg" class="img-popup industrio-icon-next"></a>
@@ -462,7 +456,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="arsenic-removal-plant">
                                                 <h3>Arsenic Removal Plant</h3>
                                             </a>
                                             <a href="img/products/arsenic-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
@@ -480,7 +474,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="iron-removal-plant">
                                                 <h3>Iron Removal Plant</h3>
                                             </a>
                                             <a href="img/products/iron-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
@@ -498,7 +492,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="fluoride-removal-plant">
                                                 <h3>Fluoride Removal Plant</h3>
                                             </a>
                                             <a href="img/products/fluoride-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
@@ -516,7 +510,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="ro-maintenance-chemicals">
                                                 <h3>Ro Maintenance Chemicals</h3>
                                             </a>
                                             <a href="img/products/ro-maintenance-chemicals.jpg" class="img-popup industrio-icon-next"></a>
@@ -534,7 +528,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="filter-media">
                                                 <h3>Filter Media</h3>
                                             </a>
                                             <a href="img/products/filter-media.jpg" class="img-popup industrio-icon-next"></a>
@@ -552,7 +546,7 @@
                                     <div class="box">
                                         <div class="content">
                                             <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="#">
+                                            <a href="sewage-treatment-plant">
                                                 <h3>Sewage Treatment Plant</h3>
                                             </a>
                                             <a href="img/products/stp.jpg" class="img-popup industrio-icon-next"></a>
@@ -565,8 +559,6 @@
                 </div>
             </div><!-- /.container -->
         </section><!-- /.project-style-one -->
-
-   
 
         <section class="faq-rqa-section faq-style-one sec-pad pb0">
             <div class="container">
@@ -640,7 +632,7 @@
                     <div class="col-md-5">
                         <div class="img-box clearfix">
                             <!-- <img src="img/certificate-1-1.jpg" alt="Awesome Image" class="pull-left" /> -->
-                            <img src="img/cert.jpg" alt="Awesome Image" height="130" class="pull-right" />
+                            <a href="img/cert.jpg" target="_blank"><img src="img/cert.jpg" alt="Awesome Image" height="130" class="pull-right" /></a>
                         </div> <!-- /.img-box -->
                     </div><!-- /.col-md-5 -->
                 </div><!-- /.row -->
@@ -649,155 +641,8 @@
 
     </div><!-- /.page-wrapper -->
 
-    <footer class="site-footer fixed-footer">
-        <div class="main-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="footer-widget about-widget">
-                            <a href="index.html"><img src="img/logo1-2.png" alt="Awesome Image" /></a>
-                            <h3>About us</h3>
-                            <p class="text-justify">Mantratech ro System is a leading manufacturer and wholesale distributor of reverse
-                                osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc.
-                            </p>
-                        </div><!-- /.footer-widget about-widget -->
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-2 col-sm-6 col-xs-12">
-                        <div class="footer-widget links-widget">
-                            <div class="title">
-                                <h3>Links</h3>
-                            </div><!-- /.title -->
-                            <ul class="links-list">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Products</a></li>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Contact</a></li>
-                            </ul><!-- /.links-list -->
-                        </div><!-- /.footer-widget links-widget -->
-                    </div><!-- /.col-md-2 -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="footer-widget services-widget">
-                            <div class="title">
-                                <h3>Products</h3>
-                            </div><!-- /.title -->
-                            <ul class="links-list">
-                                <li><a href="#">Ro Plant</a></li>
-                            </ul><!-- /.links-list -->
-                        </div><!-- /.footer-widget services-widget -->
-                    </div><!-- /.col-md-3 -->
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="footer-widget subscribe-widget">
-                            <h3>Subscribe Today</h3>
-                            <!-- <p>Many of our SELC registered employees are requested as main</p> -->
-                            <form action="#" class="subscribe-form">
-                                <input type="text" placeholder="Email Address" />
-                                <button type="submit" class="hvr-sweep-to-right">Subscribe</button>
-                            </form><!-- /.subscribe-form -->
-                        </div><!-- /.footer-widget subscribe-widget -->
-                    </div><!-- /.col-md-4 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </div><!-- /.main-footer -->
-        <div class="bottom-footer">
-            <div class="container">
-                <div class="left-text pull-left">
-                    <p>&copy; Copyright MANTRATECH AND SERVICES PVT. LTD. 2022. All right reserved.</p>
-                </div><!-- /.left-text -->
-                <div class="right-text pull-right">
-                    <p>Created by Nation Connect</p>
-                </div><!-- /.right-text -->
-            </div><!-- /.container -->
-        </div><!-- /.bottom-footer -->
-    </footer><!-- /.site-footer -->
-
-    <section class="hidden-sidebar side-navigation">
-        <a href="#" class="close-button side-navigation-close-btn fa fa-times"></a><!-- /.close-button -->
-        <div class="sidebar-content">
-            <div class="top-content">
-                <a href="index.html"><img src="img/logo1-1.png" alt="Awesome Image" /></a>
-            </div><!-- /.top-content -->
-            <nav class="nav-menu middle-content">
-                <ul class="navigation-box">
-                    <li class="current">
-                        <a href="index.html">Home <span class="subnav-toggler fa fa-caret-down"></span></a>
-                        <ul class="sub-menu">
-                            <li><a href="index.html">Home Page One</a></li>
-                            <li><a href="index2.html">Home Page Two</a></li>
-                            <li><a href="index3.html">Home Page Three</a></li>
-                        </ul><!-- /.sub-menu -->
-                    </li>
-                    <li> <a href="about.html">About Us</a> </li>
-                    <li>
-                        <a href="service.html">Services <span class="subnav-toggler fa fa-caret-down"></span></a>
-                        <ul class="sub-menu">
-                            <li> <a href="single-service.html">Chemical Research</a> </li>
-                            <li><a href="single-service.html">Fuel & Gas Management</a></li>
-                            <li><a href="single-service.html">Eco & Bio Power</a></li>
-                            <li><a href="single-service.html">Mechanical Engineering</a></li>
-                            <li><a href="single-service.html">Petroleum Refinery</a></li>
-                            <li><a href="single-service.html">Power & Energy Sector</a></li>
-                        </ul><!-- /.sub-menu -->
-                    </li>
-                    <li>
-                        <a href="project.html">Projects <span class="subnav-toggler fa fa-caret-down"></span></a>
-                        <ul class="sub-menu">
-                            <li> <a href="single-project.html">Project Details</a> </li>
-                        </ul><!-- /.sub-menu -->
-                    </li>
-                    <li>
-                        <a href="#">Pages <span class="subnav-toggler fa fa-caret-down"></span></a>
-                        <ul class="sub-menu">
-                            <li> <a href="404.html">Error 404</a> </li>
-                            <li> <a href="coming-soon.html">Coming Soon</a> </li>
-                            <li> <a href="project.html">Projects</a> </li>
-                            <li> <a href="single-project.html">Project Details</a> </li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                        </ul><!-- /.sub-menu -->
-                    </li>
-                    <li>
-                        <a href="blog.html">Blog <span class="subnav-toggler fa fa-caret-down"></span></a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.html">Blog Classic</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul><!-- /.sub-menu -->
-                    </li>
-                    <li> <a href="contact.html">Contact Us</a> </li>
-                </ul>
-            </nav><!-- /.nav-menu -->
-            <div class="bottom-content">
-                <div class="social">
-                    <a href="#" class="fab fa-facebook-f"></a>
-                    <!--
-                --><a href="#" class="fab fa-twitter"></a>
-                    <!--
-                --><a href="#" class="fab fa-google-plus-g"></a>
-                    <!--
-                --><a href="#" class="fab fa-instagram"></a>
-                    <!--
-                --><a href="#" class="fab fa-behance"></a>
-                </div><!-- /.social -->
-                <p class="copy-text">&copy; 2018 Industrio. <br /> made with <i class="fa fa-heart"></i> by themexriver</p><!-- /.copy-text -->
-            </div><!-- /.bottom-content -->
-        </div><!-- /.sidebar-content -->
-    </section><!-- /.hidden-sidebar -->
-
-
-
-    <div class="search_area zoom-anim-dialog mfp-hide" id="test-search">
-        <div class="search_box_inner">
-            <div class="input-group">
-                <input type="text" class="form-control" placeholder="Search for...">
-                <span class="input-group-btn">
-                    <button class="btn btn-default" type="button"><i class="fas fa-search"></i></button>
-                </span>
-            </div>
-        </div>
-    </div>
-
-    <div class="scroll-to-top scroll-to-target" data-target="html"><i class="fa fa-angle-up"></i></div>
-
     <?php
+    include "footer.php";
     include "foot.php";
     ?>
     <!--Revolution Slider-->
@@ -814,7 +659,5 @@
     <script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
     <script src="js/main-slider-script.js"></script>
 
-
 </body>
-
 </html>

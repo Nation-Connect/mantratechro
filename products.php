@@ -49,6 +49,12 @@
                                     <li class="filter " data-filter=".others"><span>Others</span></li>
                                 </ul><!-- /.service-list -->
                             </div><!-- /.single-sidebar service-sidebar -->
+                            <div class="single-sidebar broucher-sidebar">
+                            <div class="title">
+                                <h3>Attachment</h3>
+                            </div><!-- /.title -->
+                            <a href="./documents/Mantratech Ro Plant.docx" class="broucher-btn" download><i class="industrio-icon-emails-interface-download-symbol"></i> Download Attachment</a>
+                        </div><!-- /.single-sidebar service-sidebar -->
                         </div><!-- /.sidebar -->
                     </div><!-- /.col-md-3 col-sm-12 col-xs-12 -->
                     <div class="col-md-9 col-sm-12 col-xs-12">

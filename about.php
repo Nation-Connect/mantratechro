@@ -100,7 +100,7 @@
                 <div class="sec-title">
                     <div class="row">
                         <div class="col-md-4">
-                            <h3>Why choose <span>Mantratech</span> for your business</h3>
+                            <h3>Why choose <span class="mantratech-text-style">Mantratech</span> for your business</h3>
                         </div><!-- /.col-md-4 -->
                         <div class="col-md-8">
                             <p>We provide customer friendly technical and operational assistance for different service requirement and new installation.</p>

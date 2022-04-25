@@ -53,6 +53,26 @@
 @import url(../plugins/bands-icon/style.css);
 @import url(../plugins/fontawesome-5/css/fontawesome-all.min.css);
 @import url(../plugins/industrio-icon/style.css);
+
+@font-face {
+  font-family:"ErasBoldITC";
+  src: url("../fonts/ErasBoldITC.ttf") format("truetype");
+}
+.mantratech-text-style{
+  color: #734CE3 !important;
+  font-family: 'ErasBoldITC' !important;
+  font-style: normal !important;
+  background: none !important;
+  -webkit-text-fill-color: #734ce3 !important;
+}
+.product-bottom{
+  font-size: 12px;
+  background:#181818;
+  color: #FFF;
+  padding: 11px;
+  margin-left: -55px;
+  margin-top: 15px;
+}
 /************************** 
 * 2. miscelnious styles 
 ***************************/

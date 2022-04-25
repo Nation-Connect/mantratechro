@@ -195,7 +195,7 @@
                 <div class="row">
                     <div class="col-md-7">
                         <div class="about-content">
-                            <h3>Welcome to <span>Mantra Tech</span></h3>
+                            <h3>Welcome to <span class="mantratech-text-style">Mantratech</span></h3>
                             <p class="text-justify">A Part of MANTRATECH AND SERVICES PVT.LTD. known for
                                 dedication and their customer satisfaction. Our network provide assistance to our clients. Team of experienced engineers and technician expertise in the arena of reverse osmosis water purification system—designing, production, installation, civil construction with excellent infrastructure. It is a leading manufacturer and wholesale distributor of reverse
                                 osmosis system</p>
@@ -220,9 +220,9 @@
                     </div><!-- /.col-md-7 -->
                     <div class="col-md-5">
                         <div class="about-img-box">
-                            <img src="img/about-1-1.png" alt="Awesome Image" />
+                            <img src="img/MEMBRANE-HOUSING.jpg" alt="Awesome Image" width="100%"/>
                             <div class="video-box">
-                                <img src="img/about-1-2.png" alt="Awesome Image" />
+                                <!-- <img src="img/32.jpg" alt="Awesome Image" width="40%"/> -->
                                 <!-- <a href="http://www.youtube.com/watch?v=ZRkdyjJ_MdM" class="video-popup"><i class="industrio-icon-play-button"></i></a> -->
                             </div><!-- /.video-box -->
                         </div><!-- /.about-img-box -->
@@ -230,334 +230,7 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.about-style-one -->
-
-        <section class="portfolio-style-two sec-pad">
-            <div class="container">
-                <div class="sec-title text-center">
-                    <h3>Products of <span>mantratech</span></h3>
-                    <p>You will find yourself working With Highly experinced company that ensure your need of clean water  <br /> and an end product that is the best. </p>
-                </div><!-- /.sec-title -->
-                <div class="gallery-filter">
-                    <ul class="post-filter masonary text-center">
-                        <li class="filter active" data-filter=".masonary-item"><span>
-                                All Products</span></li>
-                        <li class="filter " data-filter=".roplant"><span>RO Plant</span></li>
-                        <li class="filter " data-filter=".removalplant"><span>Removal Plant</span></li>
-                        <li class="filter " data-filter=".others"><span>Others</span></li>
-                        <!--
-                    -->
-                    </ul><!-- /.post-filter -->
-                </div><!-- /.gallery-filter -->
-                <div class="row masonary-layout filter-layout" data-filter-class="filter">
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-140.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-140">
-                                                <h3>M-Tech-140</h3>
-                                            </a>
-                                            <a href="img/products/mtech-140.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-160.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-160">
-                                                <h3>M-Tech-160</h3>
-                                            </a>
-                                            <a href="img/products/mtech-160.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-190.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-190">
-                                                <h3>M-Tech-190</h3>
-                                            </a>
-                                            <a href="img/products/mtech-190.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-235.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-235">
-                                                <h3>M-Tech-235</h3>
-                                            </a>
-                                            <a href="img/products/mtech-235.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-270.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-270">
-                                                <h3>M-Tech-270</h3>
-                                            </a>
-                                            <a href="img/products/mtech-270.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-270-1.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-270-1">
-                                                <h3>M-Tech-270</h3>
-                                            </a>
-                                            <a href="img/products/mtech-270-1.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-385.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-385">
-                                                <h3>M-Tech-385</h3>
-                                            </a>
-                                            <a href="img/products/mtech-385.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-420.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 1000Lph</span>
-                                            <a href="m-tech-420">
-                                                <h3>M-Tech-420</h3>
-                                            </a>
-                                            <a href="img/products/mtech-420.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-435.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 2000Lph</span>
-                                            <a href="m-tech-435">
-                                                <h3>M-Tech-435</h3>
-                                            </a>
-                                            <a href="img/products/mtech-435.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-485.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 2000Lph</span>
-                                            <a href="m-tech-485">
-                                                <h3>M-Tech-485</h3>
-                                            </a>
-                                            <a href="img/products/mtech-485.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/mtech-560.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <span>Model- 2000Lph</span>
-                                            <a href="m-tech-560">
-                                                <h3>M-Tech-560</h3>
-                                            </a>
-                                            <a href="img/products/mtech-560.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="arsenic-removal-plant">
-                                                <h3>Arsenic Removal Plant</h3>
-                                            </a>
-                                            <a href="img/products/arsenic-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="iron-removal-plant">
-                                                <h3>Iron Removal Plant</h3>
-                                            </a>
-                                            <a href="img/products/iron-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="fluoride-removal-plant">
-                                                <h3>Fluoride Removal Plant</h3>
-                                            </a>
-                                            <a href="img/products/fluoride-removal-plant.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="ro-maintenance-chemicals">
-                                                <h3>Ro Maintenance Chemicals</h3>
-                                            </a>
-                                            <a href="img/products/ro-maintenance-chemicals.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/filter-media.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="filter-media">
-                                                <h3>Filter Media</h3>
-                                            </a>
-                                            <a href="img/products/filter-media.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
-                        <div class="single-portfolio-style-two">
-                            <div class="img-box">
-                                <img src="img/products/stp.jpg" alt="Awesome Image" />
-                                <div class="overlay">
-                                    <div class="box">
-                                        <div class="content">
-                                            <!-- <span>Model- 2000Lph</span> -->
-                                            <a href="sewage-treatment-plant">
-                                                <h3>Sewage Treatment Plant</h3>
-                                            </a>
-                                            <a href="img/products/stp.jpg" class="img-popup industrio-icon-next"></a>
-                                        </div><!-- /.content -->
-                                    </div><!-- /.box -->
-                                </div><!-- /.overlay -->
-                            </div><!-- /.img-box -->
-                        </div><!-- /.single-portfolio-style-two -->
-                    </div>
-                </div>
-            </div><!-- /.container -->
-        </section><!-- /.project-style-one -->
+        <br><br><br>
 
         <section class="feature-style-one">
             <div class="container">
@@ -657,7 +330,257 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.faq-rqa-section -->
-        <br>
+        
+        <section class="portfolio-style-two sec-pad">
+            <div class="container">
+                <div class="sec-title text-center">
+                    <h3>Products of <span class="mantratech-text-style">Mantratech</span></h3>
+                    <p>You will find yourself working With Highly experinced company that ensure your need of clean water  <br /> and an end product that is the best. </p>
+                </div><!-- /.sec-title -->
+                <div class="service-style-four-carousel owl-theme owl-carousel">
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-140-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />M-Tech-140<p style="font-size: 20px;"><p></h3>
+                                        <a href="m-tech-140" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-160-1.jpg" alt="Awesome Image" height="248" />
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br /> M-Tech-160</h3>
+                                        <a href="m-tech-160" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">INDUSTRIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-190-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-190</h3>
+                                        <a href="m-tech-190" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">MINERAL WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-235-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-235</h3>
+                                        <a href="m-tech-235" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">REVERSE OSMOSIS WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-385-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-385</h3>
+                                        <a href="m-tech-385" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">DRINKING WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-420-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-420</h3>
+                                        <a href="m-tech-420" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">PACKAGED DRINKING WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-270-11.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-270</h3>
+                                        <a href="m-tech-270" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">COMMERCIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-270-12.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-270</h3>
+                                        <a href="m-tech-270-1" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-435-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-435</h3>
+                                        <a href="m-tech-435" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">INDUSTRIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-485-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-485</h3>
+                                        <a href="m-tech-485" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">MINERAL WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four gas">
+                            <div class="img-box">
+                                <img src="img/products/mtech-560-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>1000Lph - 10000Lph</span> <br />  M-Tech-560</h3>
+                                        <a href="m-tech-560" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">REVERSE OSMOSIS WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four chemical">
+                            <div class="img-box">
+                                <img src="img/products/arsenic-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Arsenic Removal Plant</span></h3>
+                                        <a href="arsenic-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">ARSENIC REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four eco">
+                            <div class="img-box">
+                                <img src="img/products/ro-maintenance-chemicals-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Ro Maintenance Chemicals</span></h3>
+                                        <a href="ro-maintenance-chemicals" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">RO MAINTENANCE CHEMICAL MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four chemical">
+                            <div class="img-box">
+                                <img src="img/products/iron-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Iron Removal Plant</span></h3>
+                                        <a href="iron-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">IRON REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four eco">
+                            <div class="img-box">
+                                <img src="img/products/filter-media-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Filter Media</span></h3>
+                                        <a href="filter-media" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">FILTER MEDIA MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four chemical">
+                            <div class="img-box">
+                                <img src="img/products/fluoride-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Fluoride Removal Plant</span></h3>
+                                        <a href="fluoride-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">FLUORIDE REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                    <div class="item">
+                        <div class="single-service-style-four eco">
+                            <div class="img-box">
+                                <img src="img/products/stp-1.jpg" alt="Awesome Image" height="248"/>
+                                <div class="box">
+                                    <div class="content">
+                                        <h3><span>Sewage Treatment Plant</span></h3>
+                                        <a href="sewage-treatment-plant" class="more hvr-sweep-to-right">Learn more</a>
+                                        <div class="product-bottom">SEWAGE TREATMENT PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.img-box -->
+                        </div><!-- /.single-service-style-four -->
+                    </div><!-- /.item -->
+                </div><!-- /.row -->
+
+
+            </div><!-- /.container -->
+        </section><!-- /.project-style-one -->
 
         <section class="award-winning">
             <div class="container">
@@ -671,7 +594,7 @@
                     <div class="col-md-5">
                         <div class="img-box clearfix">
                             <!-- <img src="img/certificate-1-1.jpg" alt="Awesome Image" class="pull-left" /> -->
-                            <a href="img/cert.jpg" target="_blank"><img src="img/cert.jpg" alt="Awesome Image" height="130" class="pull-right" /></a>
+                            <a href="img/cert.jpg" target="_blank"><img src="img/cert.jpg" alt="Awesome Image" height="250" class="pull-right" /></a>
                         </div> <!-- /.img-box -->
                     </div><!-- /.col-md-5 -->
                 </div><!-- /.row -->

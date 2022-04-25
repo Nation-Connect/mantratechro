@@ -37,13 +37,18 @@
                     </div><!-- /.footer-widget services-widget -->
                 </div><!-- /.col-md-3 -->
                 <div class="col-md-4 col-sm-6 col-xs-12">
-                    <div class="footer-widget subscribe-widget">
-                        <h3>Subscribe Today</h3>
-                        <!-- <p>Many of our SELC registered employees are requested as main</p> -->
-                        <form action="#" class="subscribe-form">
-                            <input type="text" placeholder="Email Address" />
-                            <button type="submit" class="hvr-sweep-to-right">Subscribe</button>
-                        </form><!-- /.subscribe-form -->
+                    <div class="footer-widget services-widget">
+                        <div class="title">
+                            <h3>Address</h3>
+                        </div><!-- /.title -->
+                        <h5>REGD. OFFICE: </h5>
+                        <p>Rajendra Path, Radhe Krishna Colony, Ghrounda, Beni Bagicha, Kadamkuan, Patna-800001, Bihar (India)</p>
+                        <p>Chandan Singh</p>
+                        <p>+91-9708925000</p><br>
+                        <h5>CORPORATE OFFICE: </h5>
+                        <P>17, A.N PATH, BLOCK-A, 1st Floor, Sri Krishnapuri, Patna-800013, Bihar (India)</P>
+                        <p>Sudhanshu Singh</p>
+                        <p>+91-9973083145</p>
                     </div><!-- /.footer-widget subscribe-widget -->
                 </div><!-- /.col-md-4 -->
             </div><!-- /.row -->

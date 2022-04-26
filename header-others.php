@@ -2,7 +2,7 @@
     <div class="top-info">
         <div class="container">
             <div class="pull-left left-text">
-                <p>Welcome to our <span>Mantra Tech!</span></p>
+                <p>Welcome to our <span>Mantratech</span></p>
             </div><!-- /.pull-left -->
             <div class="pull-right social">
                 <a href="#" class="fab fa-facebook-f"></a>

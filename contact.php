@@ -88,7 +88,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>24/7 Support</h3>
-                                <p> 24/7 support means we are ready to help you any time, Get solution as soon as they come up.</p>
+                                <h1 style="margin-top: 38px;"> 821-082-6686 </h1>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->

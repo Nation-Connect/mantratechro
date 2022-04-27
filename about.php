@@ -87,7 +87,7 @@
                             <div class="inner">
                                 <i class="industrio-icon-support"></i>
                                 <h3>24/7 Support</h3>
-                                <p>24/7 support means we are ready to help you any time, Get solution as soon as they come up.</p>
+                                <h1 style="margin-top: 37px;"> 821-082-6686 </h1>
                             </div><!-- /.inner -->
                         </div><!-- /.single-features-style-two -->
                     </div><!-- /.col-md-4 col-sm-6 col-xs-12 -->

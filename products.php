@@ -220,7 +220,7 @@
                                     <div class="petrol single-service-style-four">
                                         <a href="filter-media">
                                             <div class="img-box">
-                                                <img src="img/products/filter-media.jpg" alt="Awesome Image" />
+                                                <img src="img/products/filter-media-2.jpg" alt="Awesome Image" />
                                                 <div class="product-bottom1">Filter Media</div>
                                             </div><!-- /.img-box -->
                                         </a>

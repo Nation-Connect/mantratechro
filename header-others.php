@@ -17,7 +17,7 @@
     </div><!-- /.top-info -->
     <div class="container">
         <div class="logo pull-left">
-            <a href="/"><img src="img/logo.jpg" alt="Awesome Image" width="150" /></a>
+            <a href="/"><img src="img/logo.jpg" alt="Mantratech" width="150" /></a>
         </div><!-- /.logo -->
         <div class="header-right-info pull-right">
             <div class="single-header-right-info">

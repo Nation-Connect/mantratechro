@@ -53,7 +53,7 @@
                         <div class="project-details-content">
                             <h3>Model- 1000Lph M-Tech-190</h3>
                             <br />
-                            <img src="img/products/mtech-190.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/mtech-190.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">We manufacture and supply superior quality range of Water Treatment Plants for optimum use of scarce fresh water resources. Our range includes Mineral Water Plant, Packaged drinking water plant, Reverse Osmosis Water Plant, Water Softener Plant, Demineraliser Plant, Sewage Treatment Plant. Ro Plant Manufacturer in Patna Bihar Mantratech Ro System. These treatment plants are manufactured using quality tested spares that ensure durability and low treatment cost.</p>

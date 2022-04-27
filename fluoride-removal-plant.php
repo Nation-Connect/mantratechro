@@ -52,7 +52,7 @@
                         <div class="project-details-content">
                             <h3>Fluoride Removal Plant</h3>
                             <br />
-                            <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/fluoride-removal-plant.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">We bring for the clients an encompassing range of Mantratech Fluoride Removal Plant which is widely used for Fluoride removal from water. The Fluoride Removal Plant we offer is manufactured with high grade raw material. Our range of Fluoride Removal Plant is offered at leading market prices consists of Domestic Fluoride Removal Plant, Fluoride Removal Plant for flat and apartments, Industrial Fluoride Removal ,FRP Fluoride Removal, MS Fluoride Removal, Multi Grade Filter (MGF), Carbon Filter, Sand Filter and Pressure Filter. We are listed as the prime manufacturer, exporter and supplier Fluoride Removal Plant .</p>

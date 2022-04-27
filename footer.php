@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12 mr-2">
                     <div class="footer-widget about-widget">
-                        <a href="index.html"><img src="img/logo.jpg" alt="Awesome Image" width="150" /></a>
+                        <a href="index.html"><img src="img/logo.jpg" alt="Mantratech" width="150" /></a>
                         <h3>About us</h3>
                         <p class="text-justify">Mantratech ro System is a leading manufacturer and wholesale distributor of reverse
                             osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc.
@@ -70,7 +70,7 @@
     <a href="#" class="close-button side-navigation-close-btn fa fa-times"></a><!-- /.close-button -->
     <div class="sidebar-content">
         <div class="top-content">
-            <a href="index.html"><img src="img/logo.jpg" alt="Awesome Image" width="150" /></a>
+            <a href="index.html"><img src="img/logo.jpg" alt="Mantratech" width="150" /></a>
         </div><!-- /.top-content -->
         <nav class="nav-menu middle-content">
             <ul class="navigation-box">

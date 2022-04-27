@@ -70,7 +70,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-140">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-140.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-140.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-140</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -80,7 +80,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-160">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-160.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-160.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-160</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -90,7 +90,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-190">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-190.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-190.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-190</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -100,7 +100,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-235">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-235.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-235.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-235</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -110,7 +110,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-235">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-270.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-270.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-270</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -120,7 +120,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-270-1">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-270-1.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-270-1.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-270</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -130,7 +130,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-385">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-385.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-385.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-385</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -140,7 +140,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-420">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-420.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-420.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-420</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -150,7 +150,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-435">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-435.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-435.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-435</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -160,7 +160,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-485">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-485.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-485.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-485</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -170,7 +170,7 @@
                                     <div class="gas single-service-style-four">
                                         <a href="m-tech-485">
                                             <div class="img-box">
-                                                <img src="img/products/mtech-560.jpg" alt="Awesome Image" />
+                                                <img src="img/products/mtech-560.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">M-Tech-560</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -180,7 +180,7 @@
                                     <div class="eco single-service-style-four">
                                         <a href="arsenic-removal-plant">
                                             <div class="img-box">
-                                                <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" />
+                                                <img src="img/products/arsenic-removal-plant.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Arsenic Removal Plant</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -190,7 +190,7 @@
                                     <div class="eco single-service-style-four">
                                         <a href="iron-removal-plant">
                                             <div class="img-box">
-                                                <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" />
+                                                <img src="img/products/iron-removal-plant.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Iron Removal Plant</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -200,7 +200,7 @@
                                     <div class="eco single-service-style-four">
                                         <a href="fluoride-removal-plant">
                                             <div class="img-box">
-                                                <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" />
+                                                <img src="img/products/fluoride-removal-plant.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Fluoride Removal Plant</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -210,7 +210,7 @@
                                     <div class="petrol single-service-style-four">
                                         <a href="ro-maintenance-chemicals">
                                             <div class="img-box">
-                                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" />
+                                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Ro Maintenance Chemicals</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -220,7 +220,7 @@
                                     <div class="petrol single-service-style-four">
                                         <a href="filter-media">
                                             <div class="img-box">
-                                                <img src="img/products/filter-media-2.jpg" alt="Awesome Image" />
+                                                <img src="img/products/filter-media-2.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Filter Media</div>
                                             </div><!-- /.img-box -->
                                         </a>
@@ -230,7 +230,7 @@
                                     <div class="petrol single-service-style-four">
                                         <a href="sewage-treatment-plant">
                                             <div class="img-box">
-                                                <img src="img/products/stp.jpg" alt="Awesome Image" />
+                                                <img src="img/products/stp.jpg" alt="Mantratech" />
                                                 <div class="product-bottom1">Sewage Treatment Plant</div>
                                             </div>
                                         </a>

@@ -11,7 +11,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-140.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-140.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -29,7 +29,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-160.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-160.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -47,7 +47,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant ">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-190.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-190.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -65,7 +65,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-235.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-235.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -83,7 +83,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-270.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-270.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -101,7 +101,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-270-1.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-270-1.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -119,7 +119,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-385.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-385.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -137,7 +137,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-420.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-420.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -155,7 +155,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-435.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-435.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -173,7 +173,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-485.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-485.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -191,7 +191,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item roplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/mtech-560.jpg" alt="Awesome Image" />
+                                <img src="img/products/mtech-560.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -209,7 +209,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" />
+                                <img src="img/products/arsenic-removal-plant.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -227,7 +227,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" />
+                                <img src="img/products/iron-removal-plant.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -245,7 +245,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item removalplant">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" />
+                                <img src="img/products/fluoride-removal-plant.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -263,7 +263,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" />
+                                <img src="img/products/ro-maintenance-chemicals.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -281,7 +281,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/filter-media.jpg" alt="Awesome Image" />
+                                <img src="img/products/filter-media.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">
@@ -299,7 +299,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item others">
                         <div class="single-portfolio-style-two">
                             <div class="img-box">
-                                <img src="img/products/stp.jpg" alt="Awesome Image" />
+                                <img src="img/products/stp.jpg" alt="Mantratech" />
                                 <div class="overlay">
                                     <div class="box">
                                         <div class="content">

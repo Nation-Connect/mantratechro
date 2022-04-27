@@ -52,8 +52,8 @@
                         <div class="project-details-content">
                             <h3>Sewage Treatment Plant</h3>
                             <br />
-                            <img src="img/products/stp.jpg" alt="Awesome Image" width="100%" />
-                            <img style="margin-top: 10px;" src="img/products/stp-2.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/stp.jpg" alt="Mantratech" width="100%" />
+                            <img style="margin-top: 10px;" src="img/products/stp-2.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">We offer our Clients Sewage Treatment Plants ( STP ) / Domestic water and Waste Water Treatment Plant that meet their issues regarding waste water generations in Industrial , Institutional and Commercial Sectors. Our solutions include independent review of alternative technologies , troubleshooting , investigations, consultant support and Cost effective and efficient STP in Low cost we provide the best Sewage Treatment Plant. Our Company Mantratech and services provides the most recent and advanced technologies to our clients. Our client is Paper and Pulp Industry Cosmetic Industry Polymer industry Beverage Industry Textile Industry Chemical industry Municipalities Dairy Industry Pharmaceutical industry Food Industry Hotels Auto-mobile industry Fiber Production Soap Industry Hospital Petroleum Industry Sugar Industry Constructions Refineries etc.</p>

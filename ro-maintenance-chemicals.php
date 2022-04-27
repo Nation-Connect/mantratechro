@@ -54,10 +54,10 @@
                             <br />
                             <div class="row">
                                 <div class="col-md-6">
-                                    <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" width="100%" />
+                                    <img src="img/products/ro-maintenance-chemicals.jpg" alt="Mantratech" width="100%" />
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="img/products/ro-maintenance-chemicals-2.jpg" alt="Awesome Image" width="100%" />
+                                    <img src="img/products/ro-maintenance-chemicals-2.jpg" alt="Mantratech" width="100%" />
                                 </div>
                             </div>
                             <br />

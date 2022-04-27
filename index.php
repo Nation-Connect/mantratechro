@@ -90,13 +90,13 @@
                     <div class="item">
                         <div class="single-service-style-two">
                             <div class="img-box">
-                                <img src="img/arsenic.jpg" alt="Awesome Image" />
+                                <img src="img/arsenic.jpg" alt="Mantratech" />
                             </div><!-- /.img-box -->
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Arsenic Removal Plant</h3>
@@ -108,7 +108,7 @@
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Arsenic Removal Plant</h3>
@@ -123,13 +123,13 @@
                     <div class="item">
                         <div class="single-service-style-two">
                             <div class="img-box">
-                                <img src="img/iron-removal.jpg" alt="Awesome Image" />
+                                <img src="img/iron-removal.jpg" alt="Mantratech" />
                             </div><!-- /.img-box -->
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Iron Removal Plant</h3>
@@ -141,7 +141,7 @@
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Iron Removal Plant</h3>
@@ -156,13 +156,13 @@
                     <div class="item">
                         <div class="single-service-style-two">
                             <div class="img-box">
-                                <img src="img/fluoride.jpg" alt="Awesome Image" />
+                                <img src="img/fluoride.jpg" alt="Mantratech" />
                             </div><!-- /.img-box -->
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Fluoride Removal Plant</h3>
@@ -174,7 +174,7 @@
                                 <div class="box">
                                     <div class="content">
                                         <div class="icon-box">
-                                            <img src="img/strainers.png" width="24" alt="Awesome Image" />
+                                            <img src="img/strainers.png" width="24" alt="Mantratech" />
                                         </div><!-- /.icon-box -->
                                         <div class="text-box">
                                             <h3>Fluoride Removal Plant</h3>
@@ -221,9 +221,9 @@
                     </div><!-- /.col-md-7 -->
                     <div class="col-md-5">
                         <div class="about-img-box">
-                            <img src="img/products/mtech-435.jpg" class="rounded img-thumbnail" alt="Awesome Image" width="100%" />
+                            <img src="img/products/mtech-435.jpg" class="rounded img-thumbnail" alt="Mantratech" width="100%" />
                             <div class="video-box">
-                                <!-- <img src="img/32.jpg" alt="Awesome Image" width="40%"/> -->
+                                <!-- <img src="img/32.jpg" alt="Mantratech" width="40%"/> -->
                                 <!-- <a href="http://www.youtube.com/watch?v=ZRkdyjJ_MdM" class="video-popup"><i class="industrio-icon-play-button"></i></a> -->
                             </div><!-- /.video-box -->
                         </div><!-- /.about-img-box -->
@@ -343,7 +343,7 @@
                         <div class="single-service-style-four gas m-2">
                             <a href="m-tech-140">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-140.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-140.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -353,7 +353,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-160">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-160.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-160.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">INDUSTRIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -363,7 +363,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-190">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-190.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-190.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">MINERAL WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -373,7 +373,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-235">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-235.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-235.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">REVERSE OSMOSIS WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -383,7 +383,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-385">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-385.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-385.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">DRINKING WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -393,7 +393,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-420">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-420.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-420.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">PACKAGED DRINKING WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -403,7 +403,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-270">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-270.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-270.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">COMMERCIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -413,7 +413,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-270-1">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-270-1.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-270-1.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -423,7 +423,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-435">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-435.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-435.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">INDUSTRIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -433,7 +433,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-485">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-485.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-485.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">MINERAL WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -443,7 +443,7 @@
                         <div class="single-service-style-four gas">
                             <a href="m-tech-560">
                                 <div class="img-box">
-                                    <img src="img/products/mtech-560.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/mtech-560.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">REVERSE OSMOSIS WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -453,7 +453,7 @@
                         <div class="single-service-style-four chemical">
                             <a href="arsenic-removal-plant">
                                 <div class="img-box">
-                                    <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/arsenic-removal-plant.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">ARSENIC REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -463,7 +463,7 @@
                         <div class="single-service-style-four eco">
                             <a href="ro-maintenance-chemicals">
                                 <div class="img-box">
-                                    <img src="img/products/ro-maintenance-chemicals.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/ro-maintenance-chemicals.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">RO MAINTENANCE CHEMICAL MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -473,7 +473,7 @@
                         <div class="single-service-style-four chemical">
                             <a href="iron-removal-plant">
                                 <div class="img-box">
-                                    <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/iron-removal-plant.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">IRON REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -483,7 +483,7 @@
                         <div class="single-service-style-four eco">
                             <a href="filter-media">
                                 <div class="img-box">
-                                    <img src="img/products/filter-media-2.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/filter-media-2.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">FILTER MEDIA MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -493,7 +493,7 @@
                         <div class="single-service-style-four chemical">
                             <a href="fluoride-removal-plant">
                                 <div class="img-box">
-                                    <img src="img/products/fluoride-removal-plant.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/fluoride-removal-plant.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">FLUORIDE REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -503,7 +503,7 @@
                         <div class="single-service-style-four eco">
                             <a href="sewage-treatment-plant">
                                 <div class="img-box">
-                                    <img src="img/products/stp.jpg" alt="Awesome Image" height="248" />
+                                    <img src="img/products/stp.jpg" alt="Mantratech" height="248" />
                                     <div class="product-bottom">SEWAGE TREATMENT PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
                                 </div><!-- /.img-box -->
                             </a>
@@ -526,8 +526,8 @@
                     </div><!-- /.col-md-7 -->
                     <div class="col-md-5">
                         <div class="img-box clearfix">
-                            <!-- <img src="img/certificate-1-1.jpg" alt="Awesome Image" class="pull-left" /> -->
-                            <a href="img/cert.jpg" target="_blank"><img src="img/cert.jpg" alt="Awesome Image" height="250" class="pull-right" /></a>
+                            <!-- <img src="img/certificate-1-1.jpg" alt="Mantratech" class="pull-left" /> -->
+                            <a href="img/cert.jpg" target="_blank"><img src="img/cert.jpg" alt="Mantratech" height="250" class="pull-right" /></a>
                         </div> <!-- /.img-box -->
                     </div><!-- /.col-md-5 -->
                 </div><!-- /.row -->

@@ -52,7 +52,7 @@
                         <div class="project-details-content">
                             <h3>Arsenic Removal Plant</h3>
                             <br />
-                            <img src="img/products/arsenic-removal-plant.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/arsenic-removal-plant.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">We bring for the clients an encompassing range of Mantratech Arsenic Removal Plant which is widely used for Arsenic removal from water. The Arsenic Removal Plant we offer is manufactured with high grade raw material. Our range of Arsenic Removal Plant is offered at leading market prices consists of Domestic Arsenic Removal Plant, Arsenic Removal Plant for flat and apartments, Industrial Arsenic Removal ,FRP Arsenic Removal, MS Arsenic Removal, Multi Grade Filter (MGF), Carbon Filter, Sand Filter and Pressure Filter. We are listed as the prime manufacturer, exporter and supplier Arsenic Removal Plant.</p>

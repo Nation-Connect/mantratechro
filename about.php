@@ -37,7 +37,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="about-img-box">
-                            <img src="img/about-3-1-1.png" alt="Awesome Image" />
+                            <img src="img/about-3-1-1.png" alt="Mantratech" />
                             <div class="content">
                                 <span>Our Story</span>
                                 <h3>Something About <br /> Us</h3>
@@ -111,7 +111,7 @@
                     <div class="item">
                         <div class="single-service-style-four gas">
                             <div class="img-box">
-                                <img src="img/products/mtech-140-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/mtech-140-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Model- 1000Lph</span> <br /> M-Tech-140</h3>
@@ -124,7 +124,7 @@
                     <div class="item">
                         <div class="single-service-style-four chemical">
                             <div class="img-box">
-                                <img src="img/products/arsenic-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/arsenic-removal-plant-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Arsenic Removal Plant</span></h3>
@@ -137,7 +137,7 @@
                     <div class="item">
                         <div class="single-service-style-four eco">
                             <div class="img-box">
-                                <img src="img/products/ro-maintenance-chemicals-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/ro-maintenance-chemicals-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Ro Maintenance Chemicals</span></h3>
@@ -150,7 +150,7 @@
                     <div class="item">
                         <div class="single-service-style-four gas">
                             <div class="img-box">
-                                <img src="img/products/mtech-160-1.jpg" alt="Awesome Image" height="248" />
+                                <img src="img/products/mtech-160-1.jpg" alt="Mantratech" height="248" />
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Model- 1000Lph</span> <br /> M-Tech-160</h3>
@@ -163,7 +163,7 @@
                     <div class="item">
                         <div class="single-service-style-four chemical">
                             <div class="img-box">
-                                <img src="img/products/iron-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/iron-removal-plant-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Iron Removal Plant</span></h3>
@@ -176,7 +176,7 @@
                     <div class="item">
                         <div class="single-service-style-four eco">
                             <div class="img-box">
-                                <img src="img/products/filter-media-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/filter-media-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Filter Media</span></h3>
@@ -189,7 +189,7 @@
                     <div class="item">
                         <div class="single-service-style-four gas">
                             <div class="img-box">
-                                <img src="img/products/mtech-190-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/mtech-190-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Model- 1000Lph</span> <br />  M-Tech-190</h3>
@@ -202,7 +202,7 @@
                     <div class="item">
                         <div class="single-service-style-four chemical">
                             <div class="img-box">
-                                <img src="img/products/fluoride-removal-plant-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/fluoride-removal-plant-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Fluoride Removal Plant</span></h3>
@@ -215,7 +215,7 @@
                     <div class="item">
                         <div class="single-service-style-four eco">
                             <div class="img-box">
-                                <img src="img/products/stp-1.jpg" alt="Awesome Image" height="248"/>
+                                <img src="img/products/stp-1.jpg" alt="Mantratech" height="248"/>
                                 <div class="box">
                                     <div class="content">
                                         <h3><span>Sewage Treatment Plant</span></h3>

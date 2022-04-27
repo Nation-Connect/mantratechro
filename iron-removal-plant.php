@@ -52,7 +52,7 @@
                         <div class="project-details-content">
                             <h3>Iron Removal Plant</h3>
                             <br />
-                            <img src="img/products/iron-removal-plant.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/iron-removal-plant.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">We bring for the clients an encompassing range of Mantratech Iron Removal Plant which is widely used for Iron removal from water. The Iron Removal Plant we offer is manufactured with high grade raw material. Our range of Mantratech Iron Removal Plant is offered at leading market prices consists of Mantratech Domestic Iron Removal Plant, Iron Removal Plant for flat and apartments, Industrial Iron Removal ,FRP Iron Removal, MS Iron Removal, Multi Grade Filter (MGF), Carbon Filter, Sand Filter and Pressure Filter. We are listed as the prime manufacturer, exporter and supplier Iron Removal Plant.</p>

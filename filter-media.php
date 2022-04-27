@@ -52,8 +52,8 @@
                         <div class="project-details-content">
                             <h3>Filter Media</h3>
                             <br />
-                            <img src="img/products/filter-media-2.jpg" alt="Awesome Image" width="100%" />
-                            <img style="margin-top: 40px;" src="img/products/filter-media.jpg" alt="Awesome Image" width="100%" />
+                            <img src="img/products/filter-media-2.jpg" alt="Mantratech" width="100%" />
+                            <img style="margin-top: 40px;" src="img/products/filter-media.jpg" alt="Mantratech" width="100%" />
                             <br />
                             <br />
                             <p class="text-justify">Mantratech filter media is used to filter water for drinking swimming pools, aquaculture, irrigation, wastewater treatment, rainwater management and other applications.</p>

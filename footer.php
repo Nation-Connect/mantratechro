@@ -9,6 +9,8 @@
                         <p class="text-justify">Mantratech ro System is a leading manufacturer and wholesale distributor of reverse
                             osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc.
                         </p>
+                        <br>
+                        <a href="https://www.indiamart.com/mantratechservices" target="_blank"><img src="img/indiamartlogo.png" alt="mantratech" width="60%"></a>
                     </div><!-- /.footer-widget about-widget -->
                 </div><!-- /.col-md-3 -->
                 <div class="col-md-2 col-sm-6 col-xs-12 pl-3">

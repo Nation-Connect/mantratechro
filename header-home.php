@@ -10,7 +10,7 @@
                 </div><!-- /.icon-box -->
                 <div class="text-box">
                     <p>Call us 9:00am - 6:00pm</p>
-                    <h3>997-308-3145</h3>
+                    <a href="tel:+919973083145"><h3>997-308-3145</h3></a>
                 </div><!-- /.text-box -->
             </div><!-- /.single-header-right-info -->
             <div class="single-header-right-info">
@@ -28,7 +28,7 @@
                 </div><!-- /.icon-box -->
                 <div class="text-box">
                     <p>E-mail us</p>
-                    <h3>info@mantratechro.com</h3>
+                    <a href="mailto:info@mantratechro.com"><h3>info@mantratechro.com</h3></a>
                 </div><!-- /.text-box -->
             </div><!-- /.single-header-right-info -->
         </div><!-- /.header-right-info -->

@@ -66,7 +66,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>Creative Ideas</h3>
-                                <p>An idea that improves the quality of water to make it appropriate for a specific end-use. </p>
+                                <p style="margin-bottom: 39px;">An idea that improves the quality of water to make it appropriate for a specific end-use. </p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->
@@ -77,7 +77,7 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>Super Safety</h3>
-                                <p> We develop workplace that is super safe and and obey health policy Rules. </p>
+                                <p style="margin-bottom: 39px;"> We develop workplace that is super safe and and obey health policy Rules. </p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->
@@ -88,7 +88,8 @@
                             </div><!-- /.icon-box -->
                             <div class="text-box">
                                 <h3>24/7 Support</h3>
-                                <h1 style="margin-top: 38px;"> 821-082-6686 </h1>
+                                <p> 24/7 support means we are ready to help you any time, Get solution as soon as they come up. </p>
+                                <p class="h6" style="font-size: 20px;"><a href="tel:+918210826686">821-082-6686</a></p>
                             </div><!-- /.text-box -->
                         </div><!-- /.single-feature-style-one -->
                     </div><!-- /.col-md-4 -->

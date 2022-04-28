@@ -87,7 +87,8 @@
                             <div class="inner">
                                 <i class="industrio-icon-support"></i>
                                 <h3>24/7 Support</h3>
-                                <h1 style="margin-top: 37px;"> 821-082-6686 </h1>
+                                <p> 24/7 support means we are ready to help you any time, Get solution as soon as they come up. </p>
+                                <p class="h6 mt-3" style="font-size: 20px;"><a href="tel:+918210826686">821-082-6686</a></p>
                             </div><!-- /.inner -->
                         </div><!-- /.single-features-style-two -->
                     </div><!-- /.col-md-4 col-sm-6 col-xs-12 -->

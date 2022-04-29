@@ -71,7 +71,7 @@
   position: absolute;
   bottom: 0;
   font-size: 12px;
-  background: #150448;
+  background: rgba(21, 4, 72, .6) ;
   color: #FFF;
   padding: 11px;
 }
@@ -697,7 +697,7 @@ body.active-preloader-ovh {
 }
 
 .header-top .single-header-right-info .text-box p {
-  color: #734CE3;
+  color: #fff;
   letter-spacing: .01em;
   font-family: 'Rubik';
   font-size: 14px;

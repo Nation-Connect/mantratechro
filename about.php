@@ -111,119 +111,92 @@
                 <div class="service-style-four-carousel owl-theme owl-carousel">
                     <div class="item">
                         <div class="single-service-style-four gas">
-                            <div class="img-box">
-                                <img src="img/products/mtech-140-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Model- 1000Lph</span> <br /> M-Tech-140</h3>
-                                        <a href="m-tech-140" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="m-tech-140">
+                                <div class="img-box">
+                                    <img src="img/products/mtech-140.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four chemical">
-                            <div class="img-box">
-                                <img src="img/products/arsenic-removal-plant-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Arsenic Removal Plant</span></h3>
-                                        <a href="arsenic-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="arsenic-removal-plant">
+                                <div class="img-box">
+                                    <img src="img/products/arsenic-removal-plant.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">ARSENIC REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four eco">
-                            <div class="img-box">
-                                <img src="img/products/ro-maintenance-chemicals-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Ro Maintenance Chemicals</span></h3>
-                                        <a href="ro-maintenance-chemicals" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="ro-maintenance-chemicals">
+                                <div class="img-box">
+                                    <img src="img/products/ro-maintenance-chemicals.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">RO MAINTENANCE CHEMICAL MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four gas">
-                            <div class="img-box">
-                                <img src="img/products/mtech-160-1.jpg" alt="Mantratech" height="248" />
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Model- 1000Lph</span> <br /> M-Tech-160</h3>
-                                        <a href="m-tech-160" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="m-tech-160">
+                                <div class="img-box">
+                                    <img src="img/products/mtech-160.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">INDUSTRIAL RO PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four chemical">
-                            <div class="img-box">
-                                <img src="img/products/iron-removal-plant-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Iron Removal Plant</span></h3>
-                                        <a href="iron-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="iron-removal-plant">
+                                <div class="img-box">
+                                    <img src="img/products/iron-removal-plant.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">IRON REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four eco">
-                            <div class="img-box">
-                                <img src="img/products/filter-media-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Filter Media</span></h3>
-                                        <a href="filter-media" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="filter-media">
+                                <div class="img-box">
+                                    <img src="img/products/filter-media-2.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">FILTER MEDIA MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four gas">
-                            <div class="img-box">
-                                <img src="img/products/mtech-190-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Model- 1000Lph</span> <br />  M-Tech-190</h3>
-                                        <a href="m-tech-190" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="m-tech-190">
+                                <div class="img-box">
+                                    <img src="img/products/mtech-190.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">MINERAL WATER PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four chemical">
-                            <div class="img-box">
-                                <img src="img/products/fluoride-removal-plant-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Fluoride Removal Plant</span></h3>
-                                        <a href="fluoride-removal-plant" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="fluoride-removal-plant">
+                                <div class="img-box">
+                                    <img src="img/products/fluoride-removal-plant.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">FLUORIDE REMOVAL PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-service-style-four eco">
-                            <div class="img-box">
-                                <img src="img/products/stp-1.jpg" alt="Mantratech" height="248"/>
-                                <div class="box">
-                                    <div class="content">
-                                        <h3><span>Sewage Treatment Plant</span></h3>
-                                        <a href="sewage-treatment-plant" class="more hvr-sweep-to-right">Learn more</a>
-                                    </div><!-- /.content -->
-                                </div><!-- /.box -->
-                            </div><!-- /.img-box -->
+                            <a href="sewage-treatment-plant">
+                                <div class="img-box">
+                                    <img src="img/products/stp.jpg" alt="Mantratech" height="248" />
+                                    <div class="product-bottom">SEWAGE TREATMENT PLANT MANUFACTURER IN PATNA BIHAR MANTRATECH RO SYSTEM</div>
+                                </div><!-- /.img-box -->
+                            </a>
                         </div><!-- /.single-service-style-four -->
                     </div><!-- /.item -->
                 </div><!-- /.row -->

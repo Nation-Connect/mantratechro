@@ -40,16 +40,23 @@
                 </div><!-- /.sec-title text-center -->
                 <div class="row">
                     <div class="col-md-6">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14390.005106718021!2d85.1101698!3d25.6214835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe440dde249f1e206!2sMantratech%20and%20Services%20Pvt.Ltd.!5e0!3m2!1sen!2sin!4v1650780957036!5m2!1sen!2sin" width="98%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14390.005106718021!2d85.1101698!3d25.6214835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe440dde249f1e206!2sMantratech%20and%20Services%20Pvt.Ltd.!5e0!3m2!1sen!2sin!4v1650780957036!5m2!1sen!2sin" width="98%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div><!-- /.col-md-6 -->
                     <div class="col-md-6">
-                        <form action="#" class="contact-form">
+                        <form action="#" class="contact-form" id="contact-form">
                             <h3>Send Mail</h3>
+                            <input type="hidden" name="send-contact-mail" />
                             <input type="text" placeholder="Your name.." name="name" />
                             <input type="text" placeholder="Your email address.." name="email" />
-                            <input type="text" placeholder="Your Location.." name="subject" />
+                            <input type="text" placeholder="Your subject.." name="subject" />
                             <textarea placeholder="Write..." name="message"></textarea>
-                            <button type="submit" class="hvr-sweep-to-right">Send</button>
+                            <button type="submit" class="hvr-sweep-to-right submit-btn">Send</button>
+                            <div id="form-message-success text-success" style="display:none;" class="mb-4">
+                                Your message was sent, thank you!
+                            </div>
+                            <div id="form-message-danger text-dandger" style="display:none;" class="mb-4">
+                                Something went wrong!, please try again.
+                            </div>
                         </form>
                     </div><!-- /.col-md-6 -->
                 </div><!-- /.row -->
@@ -113,6 +120,25 @@
     <!-- google map helper -->
     <script src="js/gmaps.js"></script>
     <script src="js/map-helper.js"></script>
+
+    <script>
+        $("#contact-form").submit(function(event) {
+            event.preventDefault();
+            $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+            $('#form-message-success').hide();
+            $('#form-message-danger').hide();
+            var formValues = $(this).serialize();
+            $.post("mail", formValues, function(data) {
+                $(".submit-btn").html("Submit");
+                if (data) {
+                    $('#form-message-success').show();
+                    $("#contactForm")[0].reset();
+                } else {
+                    $('#form-message-danger').show();
+                }
+            });
+        });
+    </script>
 
 </body>
 

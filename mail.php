@@ -20,7 +20,7 @@
 
     try {
         //Server settings
-        $mail->SMTPDebug = 0;                      // Enable verbose debug output
+        $mail->SMTPDebug = 1;                      // Enable verbose debug output
         $mail->isSMTP();                                            // Send using SMTP
         $mail->Host       = 'mail.mantratechro.com';                    // Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
@@ -30,7 +30,7 @@
         $mail->Port       = 587;                                    // TCP port to connect to
     
         //Recipients
-        $mail->setFrom('info@mantratechro.com', 'TaxSahayata');
+        $mail->setFrom('info@mantratechro.com', 'Mantratech');
         $mail->addAddress("sugandhkumar9@gmail.com", "Mantratech");     // Add a recipient
         $mail->addReplyTo($email, $name);
     

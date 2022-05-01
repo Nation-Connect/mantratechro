@@ -6,7 +6,7 @@
     <meta name="description" content="MANTRATECH & SERVICES PVT. LTD.">
     <meta name="keywords" content="chemical, company, construction, engineering, factory, gas, industrial, industry, laboratory, manufacture, mechanical, mining, oil, pharmaceutical, refinery">
     <meta name="author" content="MANTRATECH & SERVICES PVT. LTD.">
-    <title>CONTACT US | MANTRATECH & SERVICES PVT. LTD.</title>
+    <title>CONTACT US | MANTRATECH AND SERVICES PVT. LTD.</title>
     <!-- mobile responsive meta -->
     <?php
     include 'head.php';
@@ -51,10 +51,10 @@
                             <input type="text" placeholder="Your subject.." name="subject" />
                             <textarea placeholder="Write..." name="message"></textarea>
                             <button type="submit" class="hvr-sweep-to-right submit-btn">Send</button>
-                            <div id="form-message-success text-success" style="display:none;" class="mb-4">
-                                Your message was sent, thank you!
+                            <div id="form-message-success" style="display:none;font-size:20px;margin-top:10px;" class="mb-4 text-center text-success">
+                                Your message was sent, Thank you!
                             </div>
-                            <div id="form-message-danger text-dandger" style="display:none;" class="mb-4">
+                            <div id="form-message-danger" style="display:none;font-size:20px;margin-top:10px;" class="mb-4 text-center text-danger">
                                 Something went wrong!, please try again.
                             </div>
                         </form>
@@ -125,16 +125,18 @@
         $("#contact-form").submit(function(event) {
             event.preventDefault();
             $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+            $(".submit-btn").prop('disabled', true);
             $('#form-message-success').hide();
             $('#form-message-danger').hide();
             var formValues = $(this).serialize();
             $.post("mail", formValues, function(data) {
                 $(".submit-btn").html("Submit");
+                $(".submit-btn").prop('disabled', false);
                 if (data) {
-                    $('#form-message-success').show();
+                    $('#form-message-success').show().delay(5000).fadeOut(500);
                     $("#contactForm")[0].reset();
                 } else {
-                    $('#form-message-danger').show();
+                    $('#form-message-danger').show().delay(5000).fadeOut(500);
                 }
             });
         });

@@ -6,7 +6,7 @@
     <meta name="description" content="MANTRATECH & SERVICES PVT. LTD.">
     <meta name="keywords" content="chemical, company, construction, engineering, factory, gas, industrial, industry, laboratory, manufacture, mechanical, mining, oil, pharmaceutical, refinery">
     <meta name="author" content="MANTRATECH & SERVICES PVT. LTD.">
-    <title>HOME | MANTRATECH & SERVICES PVT. LTD.</title>
+    <title>HOME | MANTRATECH AND SERVICES PVT. LTD.</title>
     <!-- mobile responsive meta -->
     <?php
     include 'head.php';
@@ -320,12 +320,19 @@
                         <div class="rqa-box">
                             <h3>Request a <span>Quote</span></h3>
                             <p>Fill all information details to consult with us to get sevices from us</p>
-                            <form action="#" class="rqa-form">
-                                <input type="text" placeholder="Name" />
-                                <input type="text" placeholder="Email" />
-                                <input type="text" placeholder="Telephone" />
-                                <textarea placeholder="Write some text..."></textarea>
-                                <button type="submit" class="hvr-sweep-to-right">Get a qoute <i class="fa fa-arrow-right"></i></button>
+                            <form action="#" class="rqa-form" id="rqa-form">
+                                <input type="hidden" name="send-quote" />
+                                <input type="text" placeholder="Name" name="name" />
+                                <input type="text" placeholder="Email" name="email" />
+                                <input type="text" placeholder="Telephone" name="phone" />
+                                <textarea placeholder="Write some text..." name="message"></textarea>
+                                <button type="submit" class="hvr-sweep-to-right submit-btn">Get a qoute <i class="fa fa-arrow-right"></i></button>
+                                <div id="form-message-success" style="display:none;font-size:18px;margin-top:10px;" class="mb-4 text-center text-success">
+                                    Your message was sent, Thank you!
+                                </div>
+                                <div id="form-message-danger" style="display:none;font-size:12px;margin-top:10px;" class="mb-4 text-center text-danger">
+                                    Something went wrong!, please try again.
+                                </div>
                             </form><!-- /.rqa-form -->
                         </div><!-- /.rqa-box -->
                     </div><!-- /.col-lg-5 col-md-8 pull-right -->
@@ -554,7 +561,26 @@
     <script src="plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
     <script src="js/main-slider-script.js"></script>
-
+    <script>
+        $("#rqa-form").submit(function(event) {
+            event.preventDefault();
+            $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+            $(".submit-btn").prop('disabled', true);
+            $('#form-message-success').hide();
+            $('#form-message-danger').hide();
+            var formValues = $(this).serialize();
+            $.post("mail", formValues, function(data) {
+                $(".submit-btn").html("Get a qoute");
+                $(".submit-btn").prop('disabled', false);
+                if (data) {
+                    $('#form-message-success').show().delay(5000).fadeOut(500);
+                    $("#rqa-form")[0].reset();
+                } else {
+                    $('#form-message-danger').show().delay(5000).fadeOut(500);
+                }
+            });
+        });
+    </script>
 </body>
 
 </html>

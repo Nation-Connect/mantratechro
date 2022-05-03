@@ -6,7 +6,7 @@
     <meta name="description" content="MANTRATECH & SERVICES PVT. LTD.">
     <meta name="keywords" content="chemical, company, construction, engineering, factory, gas, industrial, industry, laboratory, manufacture, mechanical, mining, oil, pharmaceutical, refinery">
     <meta name="author" content="MANTRATECH & SERVICES PVT. LTD.">
-    <title>FILTER MEDIA | MANTRATECH AND SERVICES PVT. LTD.</title>
+    <title>FILTER MEDIA | MANTRATECH RO SYSTEM</title>
     <!-- mobile responsive meta -->
     <?php
     include 'head.php';

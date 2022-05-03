@@ -6,7 +6,7 @@
     <meta name="description" content="MANTRATECH & SERVICES PVT. LTD.">
     <meta name="keywords" content="chemical, company, construction, engineering, factory, gas, industrial, industry, laboratory, manufacture, mechanical, mining, oil, pharmaceutical, refinery">
     <meta name="author" content="MANTRATECH & SERVICES PVT. LTD.">
-    <title>ABOUT US | MANTRATECH AND SERVICES PVT. LTD.</title>
+    <title>ABOUT US | MANTRATECH RO SYSTEM</title>
     <!-- mobile responsive meta -->
     <?php
     include 'head.php';
@@ -46,7 +46,7 @@
                     </div><!-- /.col-md-6 -->
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="about-content">
-                            <h3>MANTRATECH AND SERVICES PVT. LTD.</h3>
+                            <h3>MANTRATECH RO SYSTEM</h3>
                             <p>We introducing ourselves as an ISO 9001:2015 certified company MANTRATECH AND SERVICES PVT.LTD.</p>
                             <p>A Part of MANTRATECH AND SERVICES PVT.LTD. known for dedication and their customer satisfaction. Our network provide assistance to our clients. Team of experienced engineers and technician expertise in the arena of reverse osmosis water purification system—designing, production, installation, civil construction with excellent infrastructure.</p>
                             <p>Mantratech ro System is a leading manufacturer and wholesale distributor of reverse osmosis system, Iron removal plant, arsenic removal plant, D.M plant, R.O plant, 1000lph upto 10000 lph etc.</p>

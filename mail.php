@@ -41,7 +41,7 @@
     
         //Recipients
         $mail->setFrom('info@mantratechro.com', 'Mantratech');
-        $mail->addAddress("sugandhkumar99@gmail.com", "Mantratech");     // Add a recipient
+        $mail->addAddress("mantratechro@gmail.com", "Mantratech");     // Add a recipient
         $mail->addReplyTo($email, $name);
     
         // Attachments

@@ -48,7 +48,7 @@
                         <p>Chandan Singh</p>
                         <p>+91-9708925000</p><br>
                         <h5>CORPORATE OFFICE: </h5>
-                        <P>17, A.N PATH, BLOCK-A, 1st Floor, Sri Krishnapuri, Patna-800013, Bihar (India)</P>
+                        <P>Thakur Mansion, I.A.S Colony, Rupaspur, Near Maruti Showroom, Patna, Bihar 801503</P>
                         <p>Sudhanshu Singh</p>
                         <p>+91-9973083145</p>
                     </div><!-- /.footer-widget subscribe-widget -->
